@@ -1,0 +1,22 @@
+{
+  "name": "osm-tag-to-name",
+  "version": "0.1.0",
+  "description": "Utility to provide tag to name mapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://atomoil@github.com/atomoil/osm-tag-to-name.git"
+  },
+  "keywords": [
+    "openstreetmap"
+  ],
+  "author": "Adam Hoyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomoil/osm-tag-to-name/issues"
+  },
+  "homepage": "https://github.com/atomoil/osm-tag-to-name#readme"
+}
