@@ -1,1 +1,6814 @@
-[{"tags":{"highway":"service"},"names":["Service Road"],"keywords":[]},{"tags":{"building":"construction"},"names":["Building Under Construction"],"keywords":[]},{"tags":{"shop":"religion"},"names":["Religious Shop"],"keywords":[]},{"tags":{"shop":"ticket"},"names":["Ticket Seller"],"keywords":[]},{"tags":{"craft":"chimney_sweeper"},"names":["Chimney Sweeper"],"keywords":[]},{"tags":{"emergency":"fire_hydrant"},"names":["Fire Hydrant"],"keywords":[]},{"tags":{"leisure":"golf_course"},"names":["Golf Course"],"keywords":[]},{"tags":{"craft":"scaffolder"},"names":["Scaffolder"],"keywords":[]},{"tags":{"amenity":"college"},"names":["College Grounds"],"keywords":[]},{"tags":{"shop":"furnace"},"names":["Furnace Shop"],"keywords":[]},{"tags":{"man_made":"clearcut"},"names":["Clearcut Forest"],"keywords":[]},{"tags":{"craft":"winery"},"names":["Winery"],"keywords":[]},{"tags":{"historic":"tomb"},"names":["Tomb"],"keywords":[]},{"tags":{"aerialway":"chair_lift"},"names":["Chair Lift"],"keywords":[]},{"tags":{"highway":"motorway"},"names":["Motorway"],"keywords":[]},{"tags":{"attraction":"river_rafting"},"names":["River Rafting"],"keywords":[]},{"tags":{"office":"ngo"},"names":["NGO Office"],"keywords":[]},{"tags":{"building":"warehouse"},"names":["Warehouse"],"keywords":[]},{"tags":{"type":"restriction"},"names":["Restriction"],"keywords":[]},{"tags":{"tourism":"hotel"},"names":["Hotel"],"keywords":[]},{"tags":{"natural":"sand"},"names":["Sand"],"keywords":[]},{"tags":{"shop":"confectionery"},"names":["Sweet Shop"],"keywords":[]},{"tags":{"craft":"metal_construction"},"names":["Metal Construction"],"keywords":[]},{"tags":{"man_made":"antenna"},"names":["Antenna"],"keywords":[]},{"tags":{"golf":"hole"},"names":["Golf Hole"],"keywords":[]},{"tags":{"barrier":"cycle_barrier"},"names":["Cycle Barrier"],"keywords":[]},{"tags":{"amenity":"dojo"},"names":["Dojo / Martial Arts Academy"],"keywords":[]},{"tags":{"landuse":"orchard"},"names":["Orchard"],"keywords":[]},{"tags":{"golf":"rough"},"names":["Rough"],"keywords":[]},{"tags":{"healthcare":"laboratory"},"names":["Medical Laboratory"],"keywords":[]},{"tags":{"amenity":"courthouse"},"names":["Courthouse"],"keywords":[]},{"tags":{"amenity":"coworking_space"},"names":["Coworking Space"],"keywords":[]},{"tags":{"advertising":"column"},"names":["Advertising Column"],"keywords":[]},{"tags":{"craft":"clockmaker"},"names":["Clockmaker"],"keywords":[]},{"tags":{"type":"route"},"names":["Route"],"keywords":[]},{"tags":{"shop":"beauty"},"names":["Beauty Shop"],"keywords":[]},{"tags":{"building":"stable"},"names":["Stable"],"keywords":[]},{"tags":{"leisure":"bird_hide"},"names":["Bird Hide"],"keywords":[]},{"tags":{"highway":"stop"},"names":["Stop Sign"],"keywords":[]},{"tags":{"amenity":"scrapyard"},"names":["Scrap Yard"],"keywords":[]},{"tags":{"attraction":"carousel"},"names":["Carousel"],"keywords":[]},{"tags":{"aerialway":"magic_carpet"},"names":["Magic Carpet Lift"],"keywords":[]},{"tags":{"shop":"bed"},"names":["Bed Shop"],"keywords":[]},{"tags":{"landuse":"garages"},"names":["Garage Landuse"],"keywords":[]},{"tags":{"shop":"coffee"},"names":["Coffee Shop (Retail)"],"keywords":[]},{"tags":{"natural":"scrub"},"names":["Scrub"],"keywords":[]},{"tags":{"office":"accountant"},"names":["Accountant Office"],"keywords":[]},{"tags":{"office":"moving_company"},"names":["Moving Company Office"],"keywords":[]},{"tags":{"attraction":"train"},"names":["Tourist Train"],"keywords":[]},{"tags":{"shop":"clothes"},"names":["Clothing Shop"],"keywords":[]},{"tags":{"highway":"secondary"},"names":["Secondary Road"],"keywords":[]},{"tags":{"public_transport":"platform"},"names":["Transit Stop / Platform"],"keywords":[]},{"tags":{"shop":"interior_decoration"},"names":["Interior Decoration Shop"],"keywords":[]},{"tags":{"building":"residential"},"names":["Residential Building"],"keywords":[]},{"tags":{"shop":"gift"},"names":["Gift Shop"],"keywords":[]},{"tags":{"craft":"upholsterer"},"names":["Upholsterer"],"keywords":[]},{"tags":{"leisure":"amusement_arcade"},"names":["Amusement Arcade"],"keywords":[]},{"tags":{"public_transport":"stop_position_ferry"},"names":["Ferry Stopping Location"],"keywords":[]},{"tags":{"highway":"footway"},"names":["Foot Path"],"keywords":[]},{"tags":{"office":"it"},"names":["Information Technology Office"],"keywords":[]},{"tags":{"waterway":"drain"},"names":["Drain"],"keywords":[]},{"tags":{"traffic_calming":"rumble_strip"},"names":["Rumble Strip"],"keywords":[]},{"tags":{"aerialway":"station"},"names":["Aerialway Station"],"keywords":[]},{"tags":{"shop":"appliance"},"names":["Appliance Shop"],"keywords":[]},{"tags":{"shop":"tobacco"},"names":["Tobacco Shop"],"keywords":[]},{"tags":{"building":"transportation"},"names":["Transportation Building"],"keywords":[]},{"tags":{"shop":"curtain"},"names":["Curtain Shop"],"keywords":[]},{"tags":{"power":"transformer"},"names":["Transformer"],"keywords":[]},{"tags":{"amenity":"ice_cream"},"names":["Ice Cream Shop"],"keywords":[]},{"tags":{"shop":"doityourself"},"names":["DIY Shop"],"keywords":[]},{"tags":{"type":"boundary"},"names":["Boundary"],"keywords":[]},{"tags":{"tourism":"caravan_site"},"names":["Caravan Park"],"keywords":[]},{"tags":{"amenity":"waste_disposal"},"names":["Garbage Dumpster"],"keywords":[]},{"tags":{"building":"greenhouse"},"names":["Greenhouse"],"keywords":[]},{"tags":{"waterway":"sanitary_dump_station"},"names":["Marine Toilet Disposal"],"keywords":[]},{"tags":{"public_transport":"platform_train"},"names":["Train Stop / Platform"],"keywords":[]},{"tags":{"shop":"erotic"},"names":["Erotic Shop"],"keywords":[]},{"tags":{"railway":"signal"},"names":["Railway Signal"],"keywords":[]},{"tags":{"shop":"garden_centre"},"names":["Garden Centre"],"keywords":[]},{"tags":{"highway":"motorway_link"},"names":["Motorway Link"],"keywords":[]},{"tags":{"craft":"electronics_repair"},"names":["Electronics Repair Shop"],"keywords":[]},{"tags":{"shop":"fashion"},"names":["Fashion Shop"],"keywords":[]},{"tags":{"waterway":"water_point"},"names":["Marine Drinking Water"],"keywords":[]},{"tags":{"amenity":"cafe"},"names":["Cafe"],"keywords":[]},{"tags":{"historic":"boundary_stone"},"names":["Boundary Stone"],"keywords":[]},{"tags":{"man_made":"watermill"},"names":["Watermill"],"keywords":[]},{"tags":{"place":"plot"},"names":["Plot"],"keywords":[]},{"tags":{"shop":"mall"},"names":["Mall"],"keywords":[]},{"tags":{"playground":"seesaw"},"names":["Seesaw"],"keywords":[]},{"tags":{"man_made":"water_tower"},"names":["Water Tower"],"keywords":[]},{"tags":{"craft":"locksmith"},"names":["Locksmith"],"keywords":[]},{"tags":{"tourism":"chalet"},"names":["Holiday Cottage"],"keywords":[]},{"tags":{"amenity":"telephone"},"names":["Telephone"],"keywords":[]},{"tags":{"playground":"balance_beam"},"names":["Play Balance Beam"],"keywords":[]},{"tags":{"aerialway":"rope_tow"},"names":["Rope Tow Lift"],"keywords":[]},{"tags":{"historic":"castle"},"names":["Castle"],"keywords":[]},{"tags":{"office":"financial"},"names":["Financial Office"],"keywords":[]},{"tags":{"shop":"carpet"},"names":["Carpet Shop"],"keywords":[]},{"tags":{"natural":"saddle"},"names":["Saddle"],"keywords":[]},{"tags":{"waterway":"river"},"names":["River"],"keywords":[]},{"tags":{"power":"line"},"names":["Power Line"],"keywords":[]},{"tags":{"emergency":"life_ring"},"names":["Life Ring"],"keywords":[]},{"tags":{"boundary":"administrative"},"names":["Administrative Boundary"],"keywords":[]},{"tags":{"building":"hut"},"names":["Hut"],"keywords":[]},{"tags":{"craft":"basket_maker"},"names":["Basket Maker"],"keywords":[]},{"tags":{"amenity":"waste_basket"},"names":["Rubbish Bin"],"keywords":[]},{"tags":{"office":"advertising_agency"},"names":["Advertising Agency"],"keywords":[]},{"tags":{"shop":"leather"},"names":["Leather Shop"],"keywords":[]},{"tags":{"place":"neighbourhood"},"names":["Neighborhood"],"keywords":[]},{"tags":{"aerialway":"mixed_lift"},"names":["Mixed Lift"],"keywords":[]},{"tags":{"man_made":"works"},"names":["Factory"],"keywords":[]},{"tags":{"railway":"funicular"},"names":["Funicular"],"keywords":[]},{"tags":{"highway":"raceway"},"names":["Racetrack (Motorsport)"],"keywords":[]},{"tags":{"shop":"antiques"},"names":["Antiques Shop"],"keywords":[]},{"tags":{"craft":"glaziery"},"names":["Glaziery"],"keywords":[]},{"tags":{"highway":"rest_area"},"names":["Rest Area"],"keywords":[]},{"tags":{"landuse":"farmyard"},"names":["Farmyard"],"keywords":[]},{"tags":{"amenity":"bicycle_repair_station"},"names":["Bicycle Repair Tool Stand"],"keywords":[]},{"tags":{"building":"semidetached_house"},"names":["Semi-Detached House"],"keywords":[]},{"tags":{"public_transport":"stop_position_subway"},"names":["Subway Stopping Location"],"keywords":[]},{"tags":{"highway":"give_way"},"names":["Give Way Sign"],"keywords":[]},{"tags":{"aeroway":"terminal"},"names":["Airport Terminal"],"keywords":[]},{"tags":{"healthcare":"occupational_therapist"},"names":["Occupational Therapist"],"keywords":[]},{"tags":{"man_made":"cutline"},"names":["Cut line"],"keywords":[]},{"tags":{"landuse":"religious"},"names":["Religious Area"],"keywords":[]},{"tags":{"amenity":"bar"},"names":["Bar"],"keywords":[]},{"tags":{"healthcare":"midwife"},"names":["Midwife"],"keywords":[]},{"tags":{"building":"school"},"names":["School Building"],"keywords":[]},{"tags":{"playground":"roundabout"},"names":["Play Roundabout"],"keywords":[]},{"tags":{"highway":"primary_link"},"names":["Primary Link"],"keywords":[]},{"tags":{"office":"notary"},"names":["Notary Office"],"keywords":[]},{"tags":{"natural":"bay"},"names":["Bay"],"keywords":[]},{"tags":{"man_made":"gasometer"},"names":["Gasometer"],"keywords":[]},{"tags":{"barrier":"block"},"names":["Block"],"keywords":[]},{"tags":{"shop":"window_blind"},"names":["Window Blind Shop"],"keywords":[]},{"tags":{"tourism":"artwork"},"names":["Artwork"],"keywords":[]},{"tags":{"office":"political_party"},"names":["Political Party"],"keywords":[]},{"tags":{"amenity":"social_facility"},"names":["Social Facility"],"keywords":[]},{"tags":{"amenity":"community_centre"},"names":["Community Centre"],"keywords":[]},{"tags":{"leisure":"playground"},"names":["Playground"],"keywords":[]},{"tags":{"amenity":"studio"},"names":["Studio"],"keywords":[]},{"tags":{"amenity":"bbq"},"names":["Barbecue/Grill"],"keywords":[]},{"tags":{"shop":"trade"},"names":["Trade Shop"],"keywords":[]},{"tags":{"attraction":"bungee_jumping"},"names":["Bungee Jumping"],"keywords":[]},{"tags":{"man_made":"tower"},"names":["Tower"],"keywords":[]},{"tags":{"shop":"bakery"},"names":["Bakery"],"keywords":[]},{"tags":{"amenity":"dive_centre"},"names":["Dive Centre"],"keywords":[]},{"tags":{"leisure":"water_park"},"names":["Water Park"],"keywords":[]},{"tags":{"natural":"peak"},"names":["Peak"],"keywords":[]},{"tags":{"craft":"bookbinder"},"names":["Bookbinder"],"keywords":[]},{"tags":{"amenity":"ferry_terminal"},"names":["Ferry Station / Terminal"],"keywords":[]},{"tags":{"highway":"street_lamp"},"names":["Street Light"],"keywords":[]},{"tags":{"shop":"funeral_directors"},"names":["Funeral Home"],"keywords":[]},{"tags":{"leisure":"park"},"names":["Park"],"keywords":[]},{"tags":{"building":"static_caravan"},"names":["Static Caravan"],"keywords":[]},{"tags":{"shop":"bookmaker"},"names":["Bookmaker"],"keywords":[]},{"tags":{"amenity":"bureau_de_change"},"names":["Currency Exchange"],"keywords":[]},{"tags":{"craft":"sculptor"},"names":["Sculptor"],"keywords":[]},{"tags":{"tourism":"picnic_site"},"names":["Picnic Site"],"keywords":[]},{"tags":{"leisure":"stadium"},"names":["Stadium"],"keywords":[]},{"tags":{"leisure":"sauna"},"names":["Sauna"],"keywords":[]},{"tags":{"highway":"corridor"},"names":["Indoor Corridor"],"keywords":[]},{"tags":{"shop":"craft"},"names":["Art and Craft Supplies Shop"],"keywords":[]},{"tags":{"place":"islet"},"names":["Islet"],"keywords":[]},{"tags":{"amenity":"music_school"},"names":["Music School"],"keywords":[]},{"tags":{"landuse":"military"},"names":["Military Area"],"keywords":[]},{"tags":{"natural":"volcano"},"names":["Volcano"],"keywords":[]},{"tags":{"leisure":"swimming_pool"},"names":["Swimming Pool"],"keywords":[]},{"tags":{"amenity":"parking_space"},"names":["Parking Space"],"keywords":[]},{"tags":{"building":"temple"},"names":["Temple Building"],"keywords":[]},{"tags":{"leisure":"ice_rink"},"names":["Ice Rink"],"keywords":[]},{"tags":{"building":"service"},"names":["Service Building"],"keywords":[]},{"tags":{"amenity":"prison"},"names":["Prison Grounds"],"keywords":[]},{"tags":{"traffic_calming":"dip"},"names":["Dip"],"keywords":[]},{"tags":{"tourism":"viewpoint"},"names":["Viewpoint"],"keywords":[]},{"tags":{"craft":"photographic_laboratory"},"names":["Photographic Laboratory"],"keywords":[]},{"tags":{"shop":"photo"},"names":["Photography Shop"],"keywords":[]},{"tags":{"building":"chapel"},"names":["Chapel Building"],"keywords":[]},{"tags":{"shop":"second_hand"},"names":["Second Hand Shop"],"keywords":[]},{"tags":{"attraction":"bumper_car"},"names":["Bumper Car"],"keywords":[]},{"tags":{"highway":"residential"},"names":["Residential Road"],"keywords":[]},{"tags":{"shop":"radiotechnics"},"names":["Radio/Electronic Component Shop"],"keywords":[]},{"tags":{"place":"island"},"names":["Island"],"keywords":[]},{"tags":{"natural":"reef"},"names":["Reef"],"keywords":[]},{"tags":{"railway":"platform"},"names":["Train Stop / Platform"],"keywords":[]},{"tags":{"highway":"path"},"names":["Path"],"keywords":[]},{"tags":{"craft":"tinsmith"},"names":["Tinsmith"],"keywords":[]},{"tags":{"shop":"greengrocer"},"names":["Greengrocer"],"keywords":[]},{"tags":{"shop":"motorcycle"},"names":["Motorcycle Dealership"],"keywords":[]},{"tags":{"natural":"coastline"},"names":["Coastline"],"keywords":[]},{"tags":{"amenity":"car_sharing"},"names":["Car Sharing"],"keywords":[]},{"tags":{"shop":"bicycle"},"names":["Bicycle Shop"],"keywords":[]},{"tags":{"amenity":"compressed_air"},"names":["Compressed Air"],"keywords":[]},{"tags":{"landuse":"plant_nursery"},"names":["Plant Nursery"],"keywords":[]},{"tags":{"historic":"monument"},"names":["Monument"],"keywords":[]},{"tags":{"tourism":"apartment"},"names":["Guest Apartment / Condo"],"keywords":[]},{"tags":{"highway":"mini_roundabout"},"names":["Mini-Roundabout"],"keywords":[]},{"tags":{"public_transport":"stop_position_light_rail"},"names":["Light Rail Stopping Location"],"keywords":[]},{"tags":{"leisure":"picnic_table"},"names":["Picnic Table"],"keywords":[]},{"tags":{"area":"highway"},"names":["Road Surface"],"keywords":[]},{"tags":{"man_made":"petroleum_well"},"names":["Oil Well"],"keywords":[]},{"tags":{"office":"government"},"names":["Government Office"],"keywords":[]},{"tags":{"leisure":"firepit"},"names":["Firepit"],"keywords":[]},{"tags":{"building":"cathedral"},"names":["Cathedral Building"],"keywords":[]},{"tags":{"building":"dormitory"},"names":["Dormitory"],"keywords":[]},{"tags":{"shop":"fishmonger"},"names":["Fishmonger"],"keywords":[]},{"tags":{"emergency":"destination"},"names":["Emergency Access Destination"],"keywords":[]},{"tags":{"shop":"hifi"},"names":["Hifi Shop"],"keywords":[]},{"tags":{"highway":"bus_guideway"},"names":["Bus Guideway"],"keywords":[]},{"tags":{"landuse":"farmland"},"names":["Farmland"],"keywords":[]},{"tags":{"craft":"photographer"},"names":["Photographer"],"keywords":[]},{"tags":{"shop":"pawnbroker"},"names":["Pawn Shop"],"keywords":[]},{"tags":{"amenity":"water_point"},"names":["RV Drinking Water"],"keywords":[]},{"tags":{"man_made":"chimney"},"names":["Chimney"],"keywords":[]},{"tags":{"leisure":"resort"},"names":["Resort"],"keywords":[]},{"tags":{"tourism":"museum"},"names":["Museum"],"keywords":[]},{"tags":{"waterway":"weir"},"names":["Weir"],"keywords":[]},{"tags":{"historic":"wayside_cross"},"names":["Wayside Cross"],"keywords":[]},{"tags":{"highway":"cycleway"},"names":["Cycle Path"],"keywords":[]},{"tags":{"leisure":"marina"},"names":["Marina"],"keywords":[]},{"tags":{"healthcare":"hospice"},"names":["Hospice"],"keywords":[]},{"tags":{"office":"guide"},"names":["Tour Guide Office"],"keywords":[]},{"tags":{"craft":"boatbuilder"},"names":["Boat Builder"],"keywords":[]},{"tags":{"highway":"primary"},"names":["Primary Road"],"keywords":[]},{"tags":{"shop":"florist"},"names":["Florist"],"keywords":[]},{"tags":{"landuse":"meadow"},"names":["Meadow"],"keywords":[]},{"tags":{"shop":"organic"},"names":["Organic Goods Store"],"keywords":[]},{"tags":{"shop":"hairdresser"},"names":["Hairdresser"],"keywords":[]},{"tags":{"amenity":"marketplace"},"names":["Marketplace"],"keywords":[]},{"tags":{"man_made":"windmill"},"names":["Windmill"],"keywords":[]},{"tags":{"place":"city"},"names":["City"],"keywords":[]},{"tags":{"man_made":"lighthouse"},"names":["Lighthouse"],"keywords":[]},{"tags":{"highway":"tertiary_link"},"names":["Tertiary Link"],"keywords":[]},{"tags":{"amenity":"smoking_area"},"names":["Smoking Area"],"keywords":[]},{"tags":{"healthcare":"psychotherapist"},"names":["Psychotherapist"],"keywords":[]},{"tags":{"shop":"herbalist"},"names":["Herbalist"],"keywords":[]},{"tags":{"landuse":"greenfield"},"names":["Greenfield"],"keywords":[]},{"tags":{"natural":"ridge"},"names":["Ridge"],"keywords":[]},{"tags":{"leisure":"dancing_school"},"names":["Dance School"],"keywords":[]},{"tags":{"craft":"painter"},"names":["Painter"],"keywords":[]},{"tags":{"man_made":"survey_point"},"names":["Survey Point"],"keywords":[]},{"tags":{"place":"hamlet"},"names":["Hamlet"],"keywords":[]},{"tags":{"historic":"ruins"},"names":["Ruins"],"keywords":[]},{"tags":{"shop":"laundry"},"names":["Laundry"],"keywords":[]},{"tags":{"man_made":"wastewater_plant"},"names":["Wastewater Plant"],"keywords":[]},{"tags":{"shop":"health_food"},"names":["Health Food Shop"],"keywords":[]},{"tags":{"man_made":"pumping_station"},"names":["Pumping Station"],"keywords":[]},{"tags":{"shop":"bathroom_furnishing"},"names":["Bathroom Furnishing Shop"],"keywords":[]},{"tags":{"amenity":"monastery"},"names":["Monastery Grounds"],"keywords":[]},{"tags":{"landuse":"retail"},"names":["Retail Area"],"keywords":[]},{"tags":{"highway":"speed_camera"},"names":["Speed Camera"],"keywords":[]},{"tags":{"office":"forestry"},"names":["Forestry Office"],"keywords":[]},{"tags":{"amenity":"nursing_home"},"names":["Nursing Home"],"keywords":[]},{"tags":{"historic":"archaeological_site"},"names":["Archaeological Site"],"keywords":[]},{"tags":{"landuse":"construction"},"names":["Construction"],"keywords":[]},{"tags":{"golf":"fairway"},"names":["Fairway"],"keywords":[]},{"tags":{"aerialway":"pylon"},"names":["Aerialway Pylon"],"keywords":[]},{"tags":{"playground":"basket_spinner"},"names":["Basket Spinner"],"keywords":[]},{"tags":{"tourism":"camp_site"},"names":["Camp Site"],"keywords":[]},{"tags":{"manhole":"drain"},"names":["Storm Drain"],"keywords":[]},{"tags":{"craft":"sailmaker"},"names":["Sailmaker"],"keywords":[]},{"tags":{"shop":"newsagent"},"names":["Newspaper/Magazine Shop"],"keywords":[]},{"tags":{"place":"farm"},"names":["Farm"],"keywords":[]},{"tags":{"leisure":"dance"},"names":["Dance Hall"],"keywords":[]},{"tags":{"aeroway":"helipad"},"names":["Helipad"],"keywords":[]},{"tags":{"shop":"houseware"},"names":["Houseware Store"],"keywords":["homeware","kitchenware","linen","crockery"]},{"tags":{"public_transport":"platform_bus"},"names":["Bus Stop / Platform"],"keywords":[]},{"tags":{"shop":"storage_rental"},"names":["Storage Rental"],"keywords":[]},{"tags":{"office":"estate_agent"},"names":["Estate Agent"],"keywords":[]},{"tags":{"tourism":"hostel"},"names":["Hostel"],"keywords":[]},{"tags":{"landuse":"allotments"},"names":["Allotments"],"keywords":[]},{"tags":{"power":"plant"},"names":["Power Station Grounds"],"keywords":[]},{"tags":{"waterway":"stream"},"names":["Stream"],"keywords":[]},{"tags":{"place":"village"},"names":["Village"],"keywords":[]},{"tags":{"shop":"music"},"names":["Music Shop"],"keywords":[]},{"tags":{"amenity":"townhall"},"names":["Town Hall"],"keywords":[]},{"tags":{"public_transport":"platform_trolleybus"},"names":["Trolleybus Stop / Platform"],"keywords":[]},{"tags":{"route":"ferry"},"names":["Ferry Route"],"keywords":[]},{"tags":{"amenity":"payment_centre"},"names":["Payment Centre"],"keywords":[]},{"tags":{"amenity":"ranger_station"},"names":["Warden Station"],"keywords":[]},{"tags":{"shop":"boutique"},"names":["Boutique"],"keywords":[]},{"tags":{"barrier":"city_wall"},"names":["City Wall"],"keywords":[]},{"tags":{"office":"research"},"names":["Research Office"],"keywords":[]},{"tags":{"railway":"station"},"names":["Train Station"],"keywords":[]},{"tags":{"barrier":"fence"},"names":["Fence"],"keywords":[]},{"tags":{"shop":"money_lender"},"names":["Money Lender"],"keywords":[]},{"tags":{"man_made":"embankment"},"names":["Embankment"],"keywords":[]},{"tags":{"building":"retail"},"names":["Retail Building"],"keywords":[]},{"tags":{"traffic_calming":"choker"},"names":["Traffic Choker"],"keywords":[]},{"tags":{"highway":"track"},"names":["Track"],"keywords":[]},{"tags":{"public_transport":"stop_position_bus"},"names":["Bus Stopping Location"],"keywords":[]},{"tags":{"playground":"slide"},"names":["Slide"],"keywords":[]},{"tags":{"amenity":"sanitary_dump_station"},"names":["RV Toilet Disposal"],"keywords":[]},{"tags":{"public_transport":"station_trolleybus"},"names":["Trolleybus Station / Terminal"],"keywords":[]},{"tags":{"building":"house"},"names":["House"],"keywords":[]},{"tags":{"highway":"elevator"},"names":["Lift"],"keywords":[]},{"tags":{"traffic_calming":"chicane"},"names":["Traffic Chicane"],"keywords":[]},{"tags":{"public_transport":"station_train"},"names":["Train Station"],"keywords":[]},{"tags":{"emergency":"ambulance_station"},"names":["Ambulance Station"],"keywords":[]},{"tags":{"emergency":"defibrillator"},"names":["Defibrillator"],"keywords":[]},{"tags":{"attraction":"dark_ride"},"names":["Ghost Train"],"keywords":[]},{"tags":{"barrier":"border_control"},"names":["Border Control"],"keywords":[]},{"tags":{"amenity":"boat_rental"},"names":["Boat Rental"],"keywords":[]},{"tags":{"natural":"tree"},"names":["Tree"],"keywords":[]},{"tags":{"man_made":"storage_tank"},"names":["Storage Tank"],"keywords":[]},{"tags":{"office":"lawyer"},"names":["Law Office"],"keywords":[]},{"tags":{"highway":"tertiary"},"names":["Tertiary Road"],"keywords":[]},{"tags":{"place":"square"},"names":["Square"],"keywords":[]},{"tags":{"leisure":"bowling_alley"},"names":["Bowling Alley"],"keywords":[]},{"tags":{"man_made":"adit"},"names":["Adit"],"keywords":[]},{"tags":{"building":"civic"},"names":["Civic Building"],"keywords":[]},{"tags":{"amenity":"taxi"},"names":["Taxi Stand"],"keywords":[]},{"tags":{"shop":"seafood"},"names":["Seafood Shop"],"keywords":[]},{"tags":{"landuse":"commercial"},"names":["Commercial Area"],"keywords":[]},{"tags":{"amenity":"cinema"},"names":["Cinema"],"keywords":[]},{"tags":{"amenity":"waste_transfer_station"},"names":["Waste Transfer Station"],"keywords":[]},{"tags":{"shop":"tiles"},"names":["Tile Shop"],"keywords":[]},{"tags":{"natural":"spring"},"names":["Spring"],"keywords":[]},{"tags":{"shop":"tattoo"},"names":["Tattoo Parlor"],"keywords":[]},{"tags":{"shop":"baby_goods"},"names":["Baby Goods Shop"],"keywords":[]},{"tags":{"amenity":"charging_station"},"names":["Charging Station"],"keywords":[]},{"tags":{"public_transport":"station_aerialway"},"names":["Aerialway Station"],"keywords":[]},{"tags":{"building":"barn"},"names":["Barn"],"keywords":[]},{"tags":{"amenity":"public_bath"},"names":["Public Bath"],"keywords":[]},{"tags":{"healthcare":"rehabilitation"},"names":["Rehabilitation Facility"],"keywords":[]},{"tags":{"office":"water_utility"},"names":["Water Utility Office"],"keywords":[]},{"tags":{"traffic_calming":"cushion"},"names":["Speed Cushion"],"keywords":[]},{"tags":{"shop":"furniture"},"names":["Furniture Shop"],"keywords":[]},{"tags":{"amenity":"swimming_pool"},"names":["Swimming Pool"],"keywords":[]},{"tags":{"attraction":"maze"},"names":["Maze"],"keywords":[]},{"tags":{"railway":"disused"},"names":["Disused Railway"],"keywords":[]},{"tags":{"barrier":"toll_booth"},"names":["Toll Booth"],"keywords":[]},{"tags":{"shop":"supermarket"},"names":["Supermarket"],"keywords":[]},{"tags":{"natural":"wetland"},"names":["Wetland"],"keywords":[]},{"tags":{"shop":"mobile_phone"},"names":["Mobile Phone Shop"],"keywords":[]},{"tags":{"shop":"scuba_diving"},"names":["Scuba Diving Shop"],"keywords":[]},{"tags":{"railway":"crossing"},"names":["Level Crossing (Path)"],"keywords":[]},{"tags":{"amenity":"veterinary"},"names":["Veterinary"],"keywords":[]},{"tags":{"healthcare":"blood_donation"},"names":["Blood Donor Centre"],"keywords":[]},{"tags":{"shop":"nutrition_supplements"},"names":["Nutrition Supplements Shop"],"keywords":[]},{"tags":{"amenity":"fire_station"},"names":["Fire Station"],"keywords":[]},{"tags":{"barrier":"bollard"},"names":["Bollard"],"keywords":[]},{"tags":{"natural":"cave_entrance"},"names":["Cave Entrance"],"keywords":[]},{"tags":{"emergency":"private"},"names":["Emergency Access Private"],"keywords":[]},{"tags":{"craft":"shoemaker"},"names":["Shoemaker"],"keywords":[]},{"tags":{"tourism":"information"},"names":["Information"],"keywords":[]},{"tags":{"aerialway":"drag_lift"},"names":["Drag Lift"],"keywords":[]},{"tags":{"shop":"medical_supply"},"names":["Medical Supply Shop"],"keywords":[]},{"tags":{"man_made":"mast"},"names":["Mast"],"keywords":[]},{"tags":{"aerialway":"goods"},"names":["Goods Aerialway"],"keywords":[]},{"tags":{"playground":"cushion"},"names":["Bouncy Cushion"],"keywords":[]},{"tags":{"barrier":"cattle_grid"},"names":["Cattle Grid"],"keywords":[]},{"tags":{"highway":"bus_stop"},"names":["Bus Stop / Platform"],"keywords":[]},{"tags":{"office":"therapist"},"names":["Therapist Office"],"keywords":[]},{"tags":{"shop":"pastry"},"names":["Pastry Shop"],"keywords":[]},{"tags":{"public_transport":"platform_ferry"},"names":["Ferry Stop / Platform"],"keywords":[]},{"tags":{"type":"multipolygon"},"names":["Multipolygon"],"keywords":[]},{"tags":{"barrier":"wall"},"names":["Wall"],"keywords":[]},{"tags":{"shop":"water_sports"},"names":["Watersport/Swim Shop"],"keywords":[]},{"tags":{"office":"tax_advisor"},"names":["Tax Advisor Office"],"keywords":[]},{"tags":{"tourism":"theme_park"},"names":["Theme Park"],"keywords":[]},{"tags":{"amenity":"theatre"},"names":["Theatre"],"keywords":[]},{"tags":{"man_made":"flagpole"},"names":["Flagpole"],"keywords":[]},{"tags":{"public_transport":"station_light_rail"},"names":["Light Rail Station"],"keywords":[]},{"tags":{"waterway":"ditch"},"names":["Ditch"],"keywords":[]},{"tags":{"building":"hotel"},"names":["Hotel Building"],"keywords":[]},{"tags":{"highway":"passing_place"},"names":["Passing Place"],"keywords":[]},{"tags":{"shop":"farm"},"names":["Farm Shop"],"keywords":[]},{"tags":{"historic":"memorial"},"names":["Memorial"],"keywords":[]},{"tags":{"amenity":"crematorium"},"names":["Crematorium"],"keywords":[]},{"tags":{"amenity":"parking"},"names":["Car Park"],"keywords":[]},{"tags":{"tourism":"gallery"},"names":["Art Gallery"],"keywords":[]},{"tags":{"public_transport":"stop_position"},"names":["Transit Stopping Location"],"keywords":[]},{"tags":{"highway":"road"},"names":["Unknown Road"],"keywords":[]},{"tags":{"power":"tower"},"names":["High-Voltage Tower"],"keywords":[]},{"tags":{"public_transport":"platform_aerialway"},"names":["Aerialway Stop / Platform"],"keywords":[]},{"tags":{"waterway":"dock"},"names":["Wet Dock / Dry Dock"],"keywords":[]},{"tags":{"shop":"books"},"names":["Book Shop"],"keywords":[]},{"tags":{"shop":"video"},"names":["Video/DVD Shop"],"keywords":[]},{"tags":{"craft":"gardener"},"names":["Gardener"],"keywords":[]},{"tags":{"amenity":"love_hotel"},"names":["Love Hotel"],"keywords":[]},{"tags":{"amenity":"bus_station"},"names":["Bus Station / Terminal"],"keywords":[]},{"tags":{"craft":"rigger"},"names":["Rigger"],"keywords":[]},{"tags":{"office":"coworking"},"names":["Coworking Space"],"keywords":[]},{"tags":{"public_transport":"station_ferry"},"names":["Ferry Station / Terminal"],"keywords":[]},{"tags":{"natural":"heath"},"names":["Heath"],"keywords":[]},{"tags":{"amenity":"embassy"},"names":["Embassy"],"keywords":[]},{"tags":{"shop":"travel_agency"},"names":["Travel Agency"],"keywords":[]},{"tags":{"waterway":"stream_intermittent"},"names":["Intermittent Stream"],"keywords":[]},{"tags":{"barrier":"stile"},"names":["Stile"],"keywords":[]},{"tags":{"highway":"services"},"names":["Service Area"],"keywords":[]},{"tags":{"leisure":"horse_riding"},"names":["Horseback Riding Facility"],"keywords":[]},{"tags":{"public_transport":"station_monorail"},"names":["Monorail Station"],"keywords":[]},{"tags":{"building":"church"},"names":["Church Building"],"keywords":[]},{"tags":{"amenity":"animal_shelter"},"names":["Animal Shelter"],"keywords":[]},{"tags":{"landuse":"grass"},"names":["Grass"],"keywords":[]},{"tags":{"aerialway":"cable_car"},"names":["Cable Car"],"keywords":[]},{"tags":{"amenity":"car_rental"},"names":["Car Rental"],"keywords":[]},{"tags":{"shop":"fabric"},"names":["Fabric Shop"],"keywords":[]},{"tags":{"leisure":"outdoor_seating"},"names":["Outdoor Seating Area"],"keywords":[]},{"tags":{"building":"detached"},"names":["Detached House"],"keywords":[]},{"tags":{"man_made":"crane"},"names":["Crane"],"keywords":[]},{"tags":{"landuse":"recreation_ground"},"names":["Recreation Ground"],"keywords":[]},{"tags":{"landuse":"cemetery"},"names":["Cemetery"],"keywords":[]},{"tags":{"amenity":"childcare"},"names":["Nursery/Childcare"],"keywords":[]},{"tags":{"amenity":"atm"},"names":["Cash Machine"],"keywords":[]},{"tags":{"office":"educational_institution"},"names":["Educational Institution"],"keywords":[]},{"tags":{"public_transport":"stop_position_aerialway"},"names":["Aerialway Stopping Location"],"keywords":[]},{"tags":{"man_made":"water_well"},"names":["Water Well"],"keywords":[]},{"tags":{"craft":"dressmaker"},"names":["Dressmaker"],"keywords":[]},{"tags":{"amenity":"shower"},"names":["Shower"],"keywords":[]},{"tags":{"healthcare":"audiologist"},"names":["Audiologist"],"keywords":[]},{"tags":{"shop":"tyres"},"names":["Tyre Shop"],"keywords":[]},{"tags":{"leisure":"adult_gaming_centre"},"names":["Adult Gaming Centre"],"keywords":[]},{"tags":{"shop":"charity"},"names":["Charity Shop"],"keywords":[]},{"tags":{"place":"suburb"},"names":["Borough / Suburb"],"keywords":[]},{"tags":{"public_transport":"stop_position_train"},"names":["Train Stopping Location"],"keywords":[]},{"tags":{"place":"quarter"},"names":["Sub-Borough / Quarter"],"keywords":[]},{"tags":{"craft":"pottery"},"names":["Pottery"],"keywords":[]},{"tags":{"craft":"confectionery"},"names":["Candy Maker"],"keywords":[]},{"tags":{"office":"adoption_agency"},"names":["Adoption Agency"],"keywords":[]},{"tags":{"natural":"cliff"},"names":["Cliff"],"keywords":[]},{"tags":{"power":"pole"},"names":["Power Pole"],"keywords":[]},{"tags":{"barrier":"gate"},"names":["Gate"],"keywords":[]},{"tags":{"amenity":"animal_boarding"},"names":["Animal Boarding Facility"],"keywords":[]},{"tags":{"traffic_calming":"table"},"names":["Speed Table"],"keywords":[]},{"tags":{"office":"quango"},"names":["Quasi-NGO Office"],"keywords":[]},{"tags":{"craft":"electrician"},"names":["Electrician"],"keywords":[]},{"tags":{"highway":"unclassified"},"names":["Minor/Unclassified Road"],"keywords":[]},{"tags":{"railway":"milestone"},"names":["Railway Milestone"],"keywords":[]},{"tags":{"amenity":"parking_entrance"},"names":["Parking Garage Entrance/Exit"],"keywords":[]},{"tags":{"amenity":"fast_food"},"names":["Fast Food"],"keywords":[]},{"tags":{"craft":"carpenter"},"names":["Carpenter"],"keywords":[]},{"tags":{"public_transport":"station"},"names":["Transit Station"],"keywords":[]},{"tags":{"building":"stadium"},"names":["Stadium Building"],"keywords":[]},{"tags":{"type":"site"},"names":["Site"],"keywords":[]},{"tags":{"craft":"key_cutter"},"names":["Key Cutter"],"keywords":[]},{"tags":{"public_transport":"station_train_halt"},"names":["Train Station (Halt / Request)"],"keywords":[]},{"tags":{"highway":"turning_circle"},"names":["Turning Circle"],"keywords":[]},{"tags":{"barrier":"retaining_wall"},"names":["Retaining Wall"],"keywords":[]},{"tags":{"building":"grandstand"},"names":["Grandstand"],"keywords":[]},{"tags":{"craft":"stonemason"},"names":["Stonemason"],"keywords":[]},{"tags":{"natural":"mud"},"names":["Mud"],"keywords":[]},{"tags":{"attraction":"animal"},"names":["Animal"],"keywords":[]},{"tags":{"power":"generator"},"names":["Power Generator"],"keywords":[]},{"tags":{"public_transport":"platform_monorail"},"names":["Monorail Stop / Platform"],"keywords":[]},{"tags":{"railway":"halt"},"names":["Train Station (Halt / Request)"],"keywords":[]},{"tags":{"public_transport":"station_subway"},"names":["Subway Station"],"keywords":[]},{"tags":{"public_transport":"platform_tram"},"names":["Tram Stop / Platform"],"keywords":[]},{"tags":{"natural":"glacier"},"names":["Glacier"],"keywords":[]},{"tags":{"office":"company"},"names":["Corporate Office"],"keywords":[]},{"tags":{"railway":"level_crossing"},"names":["Level Crossing (Road)"],"keywords":[]},{"tags":{"barrier":"hedge"},"names":["Hedge"],"keywords":[]},{"tags":{"craft":"beekeeper"},"names":["Beekeeper"],"keywords":[]},{"tags":{"power":"substation"},"names":["Substation"],"keywords":[]},{"tags":{"landuse":"greenhouse_horticulture"},"names":["Greenhouse Horticulture"],"keywords":[]},{"tags":{"shop":"vacuum_cleaner"},"names":["Vacuum Cleaner Shop"],"keywords":[]},{"tags":{"amenity":"fountain"},"names":["Fountain"],"keywords":[]},{"tags":{"healthcare":"podiatrist"},"names":["Podiatrist"],"keywords":[]},{"tags":{"public_transport":"stop_position_trolleybus"},"names":["Trolleybus Stopping Location"],"keywords":[]},{"tags":{"amenity":"kindergarten"},"names":["Preschool/Kindergarten Grounds"],"keywords":[]},{"tags":{"landuse":"landfill"},"names":["Landfill"],"keywords":[]},{"tags":{"railway":"derail"},"names":["Railway Derailer"],"keywords":[]},{"tags":{"aerialway":"gondola"},"names":["Gondola"],"keywords":["Dangleway"]},{"tags":{"amenity":"restaurant"},"names":["Restaurant"],"keywords":[]},{"tags":{"amenity":"clinic"},"names":["Clinic"],"keywords":[]},{"tags":{"building":"bungalow"},"names":["Bungalow"],"keywords":[]},{"tags":{"office":"energy_supplier"},"names":["Energy Supplier Office"],"keywords":[]},{"tags":{"barrier":"ditch"},"names":["Trench"],"keywords":[]},{"tags":{"waterway":"canal"},"names":["Canal"],"keywords":[]},{"tags":{"type":"route_master"},"names":["Route Master"],"keywords":[]},{"tags":{"amenity":"arts_centre"},"names":["Arts Centre"],"keywords":[]},{"tags":{"building":"college"},"names":["College Building"],"keywords":[]},{"tags":{"railway":"subway"},"names":["Subway"],"keywords":[]},{"tags":{"craft":"handicraft"},"names":["Handicraft"],"keywords":[]},{"tags":{"aeroway":"taxiway"},"names":["Taxiway"],"keywords":[]},{"tags":{"shop":"outdoor"},"names":["Outdoors Shop"],"keywords":[]},{"tags":{"barrier":"entrance"},"names":["Entrance"],"keywords":[]},{"tags":{"emergency":"phone"},"names":["Emergency Phone"],"keywords":[]},{"tags":{"leisure":"beach_resort"},"names":["Beach Resort"],"keywords":[]},{"tags":{"shop":"weapons"},"names":["Weapon Shop"],"keywords":[]},{"tags":{"emergency":"yes"},"names":["Emergency Access Yes"],"keywords":[]},{"tags":{"tourism":"alpine_hut"},"names":["Alpine Hut"],"keywords":[]},{"tags":{"landuse":"basin"},"names":["Basin"],"keywords":[]},{"tags":{"building":"kindergarten"},"names":["Preschool/Kindergarten Building"],"keywords":[]},{"tags":{"craft":"tailor"},"names":["Tailor"],"keywords":[]},{"tags":{"landuse":"churchyard"},"names":["Churchyard"],"keywords":[]},{"tags":{"building":"terrace"},"names":["Terraced houses"],"keywords":[]},{"tags":{"building":"university"},"names":["University Building"],"keywords":[]},{"tags":{"public_transport":"stop_area"},"names":["Transit Stop Area"],"keywords":[]},{"tags":{"public_transport":"stop_position_tram"},"names":["Tram Stopping Location"],"keywords":[]},{"tags":{"craft":"blacksmith"},"names":["Blacksmith"],"keywords":[]},{"tags":{"healthcare":"optometrist"},"names":["Optometrist"],"keywords":[]},{"tags":{"traffic_calming":"hump"},"names":["Speed Hump"],"keywords":[]},{"tags":{"shop":"wholesale"},"names":["Wholesale Shop / Cash & Carry "],"keywords":[]},{"tags":{"leisure":"miniature_golf"},"names":["Miniature Golf"],"keywords":[]},{"tags":{"office":"insurance"},"names":["Insurance Office"],"keywords":[]},{"tags":{"building":"boathouse"},"names":["Boathouse"],"keywords":[]},{"tags":{"railway":"miniature"},"names":["Miniature Railway"],"keywords":[]},{"tags":{"railway":"switch"},"names":["Railway Switch"],"keywords":[]},{"tags":{"amenity":"casino"},"names":["Casino"],"keywords":[]},{"tags":{"landuse":"vineyard"},"names":["Vineyard"],"keywords":[]},{"tags":{"shop":"vacant"},"names":["Vacant Shop"],"keywords":[]},{"tags":{"playground":"sandpit"},"names":["Sandpit"],"keywords":[]},{"tags":{"shop":"candles"},"names":["Candle Shop"],"keywords":[]},{"tags":{"power":"switch"},"names":["Power Switch"],"keywords":[]},{"tags":{"shop":"beverages"},"names":["Beverages Shop"],"keywords":[]},{"tags":{"waterway":"waterfall"},"names":["Waterfall"],"keywords":[]},{"tags":{"office":"association"},"names":["Nonprofit Organization Office"],"keywords":[]},{"tags":{"shop":"deli"},"names":["Deli"],"keywords":[]},{"tags":{"playground":"horizontal_bar"},"names":["Play Horizontal Bar"],"keywords":[]},{"tags":{"amenity":"nightclub"},"names":["Nightclub"],"keywords":[]},{"tags":{"craft":"watchmaker"},"names":["Watchmaker"],"keywords":[]},{"tags":{"shop":"perfumery"},"names":["Perfume Shop"],"keywords":[]},{"tags":{"landuse":"aquaculture"},"names":["Aquaculture"],"keywords":[]},{"tags":{"building":"garages"},"names":["Garages"],"keywords":[]},{"tags":{"leisure":"hackerspace"},"names":["Hackerspace"],"keywords":[]},{"tags":{"building":"bunker"},"names":["Bunker"],"keywords":[]},{"tags":{"railway":"monorail"},"names":["Monorail"],"keywords":[]},{"tags":{"railway":"light_rail"},"names":["Light Rail"],"keywords":[]},{"tags":{"railway":"tram"},"names":["Tram"],"keywords":[]},{"tags":{"amenity":"food_court"},"names":["Food Court"],"keywords":[]},{"tags":{"craft":"jeweler"},"names":["Jeweler"],"keywords":[]},{"tags":{"shop":"shoes"},"names":["Shoe Shop"],"keywords":[]},{"tags":{"shop":"copyshop"},"names":["Copyshop"],"keywords":[]},{"tags":{"railway":"narrow_gauge"},"names":["Narrow Gauge Rail"],"keywords":[]},{"tags":{"shop":"locksmith"},"names":["Locksmith"],"keywords":[]},{"tags":{"shop":"hearing_aids"},"names":["Hearing Aids Shop"],"keywords":[]},{"tags":{"building":"cabin"},"names":["Cabin"],"keywords":[]},{"tags":{"tourism":"attraction"},"names":["Tourist Attraction"],"keywords":[]},{"tags":{"tourism":"trail_riding_station"},"names":["Trail Riding Station"],"keywords":[]},{"tags":{"man_made":"water_works"},"names":["Water Works"],"keywords":[]},{"tags":{"amenity":"clock"},"names":["Clock"],"keywords":[]},{"tags":{"landuse":"quarry"},"names":["Quarry"],"keywords":[]},{"tags":{"amenity":"bicycle_parking"},"names":["Bicycle Parking"],"keywords":[]},{"tags":{"building":"roof"},"names":["Roof"],"keywords":[]},{"tags":{"place":"locality"},"names":["Locality"],"keywords":[]},{"tags":{"shop":"paint"},"names":["Paint Shop"],"keywords":[]},{"tags":{"barrier":"kissing_gate"},"names":["Kissing Gate"],"keywords":[]},{"tags":{"shop":"art"},"names":["Art Shop"],"keywords":[]},{"tags":{"barrier":"lift_gate"},"names":["Lift Gate"],"keywords":[]},{"tags":{"playground":"basket_swing"},"names":["Basket Swing"],"keywords":[]},{"tags":{"building":"mosque"},"names":["Mosque Building"],"keywords":[]},{"tags":{"amenity":"drinking_water"},"names":["Drinking Water"],"keywords":[]},{"tags":{"shop":"tailor"},"names":["Tailor"],"keywords":[]},{"tags":{"shop":"cheese"},"names":["Cheese Shop"],"keywords":[]},{"tags":{"amenity":"post_office"},"names":["Post Office"],"keywords":[]},{"tags":{"amenity":"dentist"},"names":["Dentist"],"keywords":[]},{"tags":{"emergency":"water_tank"},"names":["Emergency Water Tank"],"keywords":[]},{"tags":{"office":"architect"},"names":["Architect Office"],"keywords":[]},{"tags":{"public_transport":"platform_light_rail"},"names":["Light Rail Stop / Platform"],"keywords":[]},{"tags":{"natural":"fell"},"names":["Fell"],"keywords":[]},{"tags":{"craft":"caterer"},"names":["Caterer"],"keywords":[]},{"tags":{"amenity":"toilets"},"names":["Toilets"],"keywords":[]},{"tags":{"craft":"hvac"},"names":["HVAC"],"keywords":[]},{"tags":{"craft":"brewery"},"names":["Brewery"],"keywords":[]},{"tags":{"tourism":"motel"},"names":["Motel"],"keywords":[]},{"tags":{"railway":"subway_entrance"},"names":["Subway Entrance"],"keywords":[]},{"tags":{"barrier":"kerb"},"names":["Kerb"],"keywords":[]},{"tags":{"shop":"car_repair"},"names":["Car Repair Shop"],"keywords":[]},{"tags":{"man_made":"groyne"},"names":["Groyne"],"keywords":[]},{"tags":{"amenity":"police"},"names":["Police"],"keywords":[]},{"tags":{"power":"sub_station"},"names":["Substation"],"keywords":[]},{"tags":{"building":"public"},"names":["Public Building"],"keywords":[]},{"tags":{"shop":"stationery"},"names":["Stationery Shop"],"keywords":[]},{"tags":{"allotments":"plot"},"names":["Allotments Plot"],"keywords":[]},{"tags":{"craft":"optician"},"names":["Optician"],"keywords":[]},{"tags":{"office":"administrative"},"names":["Administrative Office"],"keywords":[]},{"tags":{"leisure":"nature_reserve"},"names":["Nature Reserve"],"keywords":[]},{"tags":{"highway":"pedestrian_area"},"names":["Pedestrian Area"],"keywords":[]},{"tags":{"advertising":"billboard"},"names":["Billboard"],"keywords":[]},{"tags":{"shop":"massage"},"names":["Massage Shop"],"keywords":[]},{"tags":{"camp_site":"camp_pitch"},"names":["Camp Pitch"],"keywords":[]},{"tags":{"landuse":"farm"},"names":["Farmland"],"keywords":[]},{"tags":{"shop":"dry_cleaning"},"names":["Dry Cleaner"],"keywords":[]},{"tags":{"amenity":"internet_cafe"},"names":["Internet Cafe"],"keywords":[]},{"tags":{"aeroway":"aerodrome"},"names":["Airport"],"keywords":[]},{"tags":{"railway":"abandoned"},"names":["Abandoned Railway"],"keywords":[]},{"tags":{"leisure":"common"},"names":["Common"],"keywords":[]},{"tags":{"golf":"tee"},"names":["Tee Box"],"keywords":[]},{"tags":{"highway":"turning_loop"},"names":["Turning Loop (Island)"],"keywords":[]},{"tags":{"office":"physician"},"names":["Physician"],"keywords":[]},{"tags":{"shop":"anime"},"names":["Anime Shop"],"keywords":[]},{"tags":{"waterway":"fuel"},"names":["Marine Fuel Station"],"keywords":[]},{"tags":{"type":"waterway"},"names":["Waterway"],"keywords":[]},{"tags":{"landuse":"railway"},"names":["Railway Corridor"],"keywords":[]},{"tags":{"playground":"zipwire"},"names":["Zip Wire"],"keywords":[]},{"tags":{"shop":"video_games"},"names":["Video Games Shop"],"keywords":[]},{"tags":{"building":"industrial"},"names":["Industrial Building"],"keywords":[]},{"tags":{"amenity":"grave_yard"},"names":["Graveyard"],"keywords":[]},{"tags":{"building":"entrance"},"names":["Entrance/Exit"],"keywords":[]},{"tags":{"building":"ruins"},"names":["Building Ruins"],"keywords":[]},{"tags":{"natural":"beach"},"names":["Beach"],"keywords":[]},{"tags":{"shop":"convenience"},"names":["Convenience Store"],"keywords":[]},{"tags":{"playground":"swing"},"names":["Swing"],"keywords":[]},{"tags":{"craft":"sawmill"},"names":["Sawmill"],"keywords":[]},{"tags":{"craft":"plumber"},"names":["Plumber"],"keywords":[]},{"tags":{"leisure":"fitness_station"},"names":["Outdoor Fitness Station"],"keywords":[]},{"tags":{"man_made":"pipeline"},"names":["Pipeline"],"keywords":[]},{"tags":{"natural":"bare_rock"},"names":["Bare Rock"],"keywords":[]},{"tags":{"natural":"wood"},"names":["Wood"],"keywords":[]},{"tags":{"building":"farm_auxiliary"},"names":["Farm Building"],"keywords":[]},{"tags":{"attraction":"drop_tower"},"names":["Drop Tower"],"keywords":[]},{"tags":{"amenity":"doctors"},"names":["Doctor"],"keywords":[]},{"tags":{"leisure":"slipway"},"names":["Slipway"],"keywords":[]},{"tags":{"emergency":"no"},"names":["Emergency Access No"],"keywords":[]},{"tags":{"emergency":"official"},"names":["Emergency Access Official"],"keywords":[]},{"tags":{"aerialway":"t-bar"},"names":["T-bar Lift"],"keywords":[]},{"tags":{"shop":"chemist"},"names":["Chemist"],"keywords":[]},{"tags":{"tourism":"aquarium"},"names":["Aquarium"],"keywords":[]},{"tags":{"place":"town"},"names":["Town"],"keywords":[]},{"tags":{"railway":"tram_stop"},"names":["Tram Stopping Position"],"keywords":[]},{"tags":{"shop":"pyrotechnics"},"names":["Fireworks Shop"],"keywords":[]},{"tags":{"highway":"trunk"},"names":["Trunk Road"],"keywords":[]},{"tags":{"man_made":"pier"},"names":["Pier"],"keywords":[]},{"tags":{"waterway":"dam"},"names":["Dam"],"keywords":[]},{"tags":{"building":"farm"},"names":["Farm House"],"keywords":[]},{"tags":{"amenity":"recycling_centre"},"names":["Recycling Centre"],"keywords":[]},{"tags":{"shop":"tea"},"names":["Tea Shop (Retail)"],"keywords":[]},{"tags":{"office":"private_investigator"},"names":["Private Investigator Office"],"keywords":[]},{"tags":{"amenity":"watering_place"},"names":["Animal Watering Place"],"keywords":[]},{"tags":{"shop":"dairy"},"names":["Dairy Shop"],"keywords":[]},{"tags":{"shop":"motorcycle_repair"},"names":["Motorcycle Repair Shop"],"keywords":[]},{"tags":{"man_made":"bridge"},"names":["Bridge"],"keywords":[]},{"tags":{"public_transport":"platform_subway"},"names":["Subway Stop / Platform"],"keywords":[]},{"tags":{"amenity":"car_pooling"},"names":["Car Pooling"],"keywords":[]},{"tags":{"healthcare":"alternative"},"names":["Alternative Medicine"],"keywords":[]},{"tags":{"public_transport":"stop_position_monorail"},"names":["Monorail Stopping Location"],"keywords":[]},{"tags":{"amenity":"fuel"},"names":["Petrol Station"],"keywords":["gas","fuel","propane","diesel","lng","cng","biodiesel"]},{"tags":{"shop":"car_parts"},"names":["Car Parts Shop"],"keywords":[]},{"tags":{"amenity":"grit_bin"},"names":["Grit Bin"],"keywords":[]},{"tags":{"office":"telecommunication"},"names":["Telecom Office"],"keywords":[]},{"tags":{"shop":"department_store"},"names":["Department Store"],"keywords":[]},{"tags":{"leisure":"garden"},"names":["Garden"],"keywords":[]},{"tags":{"highway":"secondary_link"},"names":["Secondary Link"],"keywords":[]},{"tags":{"shop":"e-cigarette"},"names":["E-Cigarette Shop"],"keywords":[]},{"tags":{"craft":"roofer"},"names":["Roofer"],"keywords":[]},{"tags":{"amenity":"place_of_worship"},"names":["Place of Worship"],"keywords":[]},{"tags":{"attraction":"big_wheel"},"names":["Big Wheel"],"keywords":[]},{"tags":{"shop":"toys"},"names":["Toy Shop"],"keywords":[]},{"tags":{"man_made":"silo"},"names":["Silo"],"keywords":[]},{"tags":{"shop":"variety_store"},"names":["Variety Store"],"keywords":[]},{"tags":{"amenity":"school"},"names":["School Grounds"],"keywords":[]},{"tags":{"shop":"kitchen"},"names":["Kitchen Design Shop"],"keywords":[]},{"tags":{"railway":"train_wash"},"names":["Train Wash"],"keywords":[]},{"tags":{"tourism":"guest_house"},"names":["Guest House"],"keywords":[]},{"tags":{"shop":"pet"},"names":["Pet Shop"],"keywords":[]},{"tags":{"craft":"tiler"},"names":["Tiler"],"keywords":[]},{"tags":{"landuse":"residential"},"names":["Residential Area"],"keywords":[]},{"tags":{"aeroway":"apron"},"names":["Apron"],"keywords":[]},{"tags":{"waterway":"riverbank"},"names":["Riverbank"],"keywords":[]},{"tags":{"amenity":"bank"},"names":["Bank"],"keywords":[]},{"tags":{"amenity":"register_office"},"names":["Register Office"],"keywords":[]},{"tags":{"shop":"butcher"},"names":["Butcher"],"keywords":[]},{"tags":{"amenity":"hospital"},"names":["Hospital Grounds"],"keywords":[]},{"tags":{"amenity":"planetarium"},"names":["Planetarium"],"keywords":[]},{"tags":{"shop":"bag"},"names":["Bag/Luggage Shop"],"keywords":[]},{"tags":{"public_transport":"station_tram"},"names":["Tram Station"],"keywords":[]},{"tags":{"aeroway":"runway"},"names":["Runway"],"keywords":[]},{"tags":{"highway":"trunk_link"},"names":["Trunk Link"],"keywords":[]},{"tags":{"attraction":"pirate_ship"},"names":["Pirate Ship"],"keywords":[]},{"tags":{"golf":"bunker"},"names":["Bunker"],"keywords":[]},{"tags":{"craft":"distillery"},"names":["Distillery"],"keywords":[]},{"tags":{"tourism":"zoo"},"names":["Zoo"],"keywords":[]},{"tags":{"aeroway":"gate"},"names":["Airport Gate"],"keywords":[]},{"tags":{"healthcare":"speech_therapist"},"names":["Speech Therapist"],"keywords":[]},{"tags":{"craft":"saddler"},"names":["Saddler"],"keywords":[]},{"tags":{"craft":"insulator"},"names":["Insulator"],"keywords":[]},{"tags":{"traffic_calming":"island"},"names":["Traffic Island"],"keywords":[]},{"tags":{"shop":"car"},"names":["Car Dealership"],"keywords":[]},{"tags":{"shop":"alcohol"},"names":["Off licence (Alcohol shop)"],"keywords":[]},{"tags":{"amenity":"car_wash"},"names":["Car Wash"],"keywords":[]},{"tags":{"shop":"pet_grooming"},"names":["Pet Grooming Shop"],"keywords":[]},{"tags":{"landuse":"industrial"},"names":["Industrial Area"],"keywords":[]},{"tags":{"shop":"optician"},"names":["Optician"],"keywords":[]},{"tags":{"leisure":"dog_park"},"names":["Dog Park"],"keywords":[]},{"tags":{"power":"minor_line"},"names":["Minor Power Line"],"keywords":[]},{"tags":{"shop":"chocolate"},"names":["Chocolate Shop"],"keywords":[]},{"tags":{"amenity":"pub"},"names":["Pub"],"keywords":[]},{"tags":{"amenity":"bench"},"names":["Bench"],"keywords":[]},{"tags":{"amenity":"university"},"names":["University Grounds"],"keywords":[]},{"tags":{"aerialway":"platter"},"names":["Platter Lift"],"keywords":[]},{"tags":{"natural":"scree"},"names":["Scree"],"keywords":[]},{"tags":{"playground":"climbing_frame"},"names":["Climbing Frame"],"keywords":[]},{"tags":{"highway":"pedestrian_line"},"names":["Pedestrian Street"],"keywords":[]},{"tags":{"aeroway":"hangar"},"names":["Hangar"],"keywords":[]},{"tags":{"building":"shed"},"names":["Shed"],"keywords":[]},{"tags":{"highway":"traffic_signals"},"names":["Traffic Lights"],"keywords":[]},{"tags":{"shop":"cosmetics"},"names":["Cosmetics Shop"],"keywords":[]},{"tags":{"traffic_calming":"bump"},"names":["Speed Bump"],"keywords":[]},{"tags":{"place":"isolated_dwelling"},"names":["Isolated Dwelling"],"keywords":[]},{"tags":{"office":"charity"},"names":["Charity Office"],"keywords":[]},{"tags":{"tourism":"wilderness_hut"},"names":["Wilderness Hut"],"keywords":[]},{"tags":{"waterway":"boatyard"},"names":["Boatyard"],"keywords":[]},{"tags":{"playground":"rocker"},"names":["Spring Rider"],"keywords":[]},{"tags":{"amenity":"animal_breeding"},"names":["Animal Breeding Facility"],"keywords":[]},{"tags":{"amenity":"bicycle_rental"},"names":["Bicycle Rental"],"keywords":[]},{"tags":{"shop":"frame"},"names":["Framing Shop"],"keywords":[]},{"tags":{"amenity":"driving_school"},"names":["Driving School"],"keywords":[]},{"tags":{"building":"hospital"},"names":["Hospital Building"],"keywords":[]},{"tags":{"shop":"computer"},"names":["Computer Shop"],"keywords":[]},{"tags":{"shop":"watches"},"names":["Watches Shop"],"keywords":[]},{"tags":{"office":"surveyor"},"names":["Surveyor Office"],"keywords":[]},{"tags":{"highway":"traffic_mirror"},"names":["Traffic Mirror"],"keywords":[]},{"tags":{"craft":"plasterer"},"names":["Plasterer"],"keywords":[]},{"tags":{"man_made":"surveillance"},"names":["Surveillance"],"keywords":[]},{"tags":{"landuse":"brownfield"},"names":["Brownfield"],"keywords":[]},{"tags":{"shop":"musical_instrument"},"names":["Musical Instrument Shop"],"keywords":[]},{"tags":{"emergency":"designated"},"names":["Emergency Access Designated"],"keywords":[]},{"tags":{"noexit":"yes"},"names":["No Exit"],"keywords":[]},{"tags":{"public_transport":"station_bus"},"names":["Bus Station / Terminal"],"keywords":[]},{"tags":{"highway":"steps"},"names":["Steps"],"keywords":[]},{"tags":{"landuse":"harbour"},"names":["Harbor"],"keywords":[]},{"tags":{"shop":"gas"},"names":["Bottled Gas Shop"],"keywords":[]},{"tags":{"amenity":"post_box"},"names":["Post Box"],"keywords":["Mailbox"]},{"tags":{"building":"commercial"},"names":["Commercial Building"],"keywords":[]},{"tags":{"playground":"structure"},"names":["Play Structure"],"keywords":[]},{"tags":{"healthcare":"birthing_center"},"names":["Birthing Centre"],"keywords":[]},{"tags":{"shop":"electronics"},"names":["Electronics Shop"],"keywords":[]},{"tags":{"amenity":"vending_machine"},"names":["Vending Machine"],"keywords":[]},{"tags":{"historic":"wayside_shrine"},"names":["Wayside Shrine"],"keywords":[]},{"tags":{"amenity":"shelter"},"names":["Shelter"],"keywords":[]},{"tags":{"office":"newspaper"},"names":["Newspaper Office"],"keywords":[]},{"tags":{"amenity":"hunting_stand"},"names":["Hunting Stand"],"keywords":[]},{"tags":{"man_made":"breakwater"},"names":["Breakwater"],"keywords":[]},{"tags":{"leisure":"fitness_centre"},"names":["Gym / Fitness Centre"],"keywords":[]},{"tags":{"amenity":"public_bookcase"},"names":["Public Bookcase"],"keywords":[]},{"tags":{"highway":"motorway_junction"},"names":["Motorway Junction / Exit"],"keywords":[]},{"tags":{"office":"foundation"},"names":["Foundation Office"],"keywords":[]},{"tags":{"highway":"living_street"},"names":["Living Street"],"keywords":[]},{"tags":{"amenity":"library"},"names":["Library"],"keywords":[]},{"tags":{"railway":"rail"},"names":["Rail"],"keywords":[]},{"tags":{"highway":"bridleway"},"names":["Bridleway"],"keywords":[]},{"tags":{"natural":"water"},"names":["Water"],"keywords":[]},{"tags":{"shop":"wine"},"names":["Wine Shop"],"keywords":[]},{"tags":{"office":"employment_agency"},"names":["Employment Agency"],"keywords":[]},{"tags":{"craft":"window_construction"},"names":["Window Construction"],"keywords":[]},{"tags":{"railway":"buffer_stop"},"names":["Buffer Stop"],"keywords":[]},{"tags":{"leisure":"pitch"},"names":["Sport Pitch"],"keywords":[]},{"tags":{"building":"garage"},"names":["Garage"],"keywords":[]},{"tags":{"manhole":"telecom"},"names":["Telecom Manhole"],"keywords":[]},{"tags":{"shop":"lottery"},"names":["Lottery Shop"],"keywords":[]},{"tags":{"healthcare":"physiotherapist"},"names":["Physiotherapist"],"keywords":[]},{"tags":{"attraction":"amusement_ride"},"names":["Amusement Ride"],"keywords":[]},{"tags":{"attraction":"roller_coaster"},"names":["Roller Coaster"],"keywords":[]},{"tags":{"shop":"hardware"},"names":["Hardware Shop"],"keywords":[]},{"tags":{"leisure":"track"},"names":["Racetrack (Non-Motorsport)"],"keywords":[]},{"tags":{"golf":"green"},"names":["Putting Green"],"keywords":[]},{"tags":{"leisure":"sports_centre"},"names":["Sports Centre / Complex"],"keywords":[]},{"tags":{"amenity":"motorcycle_parking"},"names":["Motorcycle Parking"],"keywords":[]},{"tags":{"shop":"sports"},"names":["Sporting Goods Shop"],"keywords":[]},{"tags":{"office":"travel_agent"},"names":["Travel Agency"],"keywords":[]},{"tags":{"attraction":"water_slide"},"names":["Water Slide"],"keywords":[]},{"tags":{"natural":"grassland"},"names":["Grassland"],"keywords":[]},{"tags":{"craft":"carpet_layer"},"names":["Carpet Layer"],"keywords":[]}]
+[
+   {
+      "tags": {
+         "highway": "service"
+      },
+      "names": [
+         "Service Road"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "construction"
+      },
+      "names": [
+         "Building Under Construction"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "religion"
+      },
+      "names": [
+         "Religious Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "ticket"
+      },
+      "names": [
+         "Ticket Seller"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "chimney_sweeper"
+      },
+      "names": [
+         "Chimney Sweeper"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "fire_hydrant"
+      },
+      "names": [
+         "Fire Hydrant"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "golf_course"
+      },
+      "names": [
+         "Golf Course"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "scaffolder"
+      },
+      "names": [
+         "Scaffolder"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "college"
+      },
+      "names": [
+         "College Grounds"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "furnace"
+      },
+      "names": [
+         "Furnace Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "clearcut"
+      },
+      "names": [
+         "Clearcut Forest"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "winery"
+      },
+      "names": [
+         "Winery"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "historic": "tomb"
+      },
+      "names": [
+         "Tomb"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "chair_lift"
+      },
+      "names": [
+         "Chair Lift"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "motorway"
+      },
+      "names": [
+         "Motorway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "river_rafting"
+      },
+      "names": [
+         "River Rafting"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "ngo"
+      },
+      "names": [
+         "NGO Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "warehouse"
+      },
+      "names": [
+         "Warehouse"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "type": "restriction"
+      },
+      "names": [
+         "Restriction"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "hotel"
+      },
+      "names": [
+         "Hotel"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "sand"
+      },
+      "names": [
+         "Sand"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "confectionery"
+      },
+      "names": [
+         "Sweet Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "metal_construction"
+      },
+      "names": [
+         "Metal Construction"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "antenna"
+      },
+      "names": [
+         "Antenna"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "golf": "hole"
+      },
+      "names": [
+         "Golf Hole"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "cycle_barrier"
+      },
+      "names": [
+         "Cycle Barrier"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "dojo"
+      },
+      "names": [
+         "Dojo / Martial Arts Academy"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "orchard"
+      },
+      "names": [
+         "Orchard"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "golf": "rough"
+      },
+      "names": [
+         "Rough"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "laboratory"
+      },
+      "names": [
+         "Medical Laboratory"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "courthouse"
+      },
+      "names": [
+         "Courthouse"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "coworking_space"
+      },
+      "names": [
+         "Coworking Space"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "advertising": "column"
+      },
+      "names": [
+         "Advertising Column"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "clockmaker"
+      },
+      "names": [
+         "Clockmaker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "type": "route"
+      },
+      "names": [
+         "Route"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "beauty"
+      },
+      "names": [
+         "Beauty Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "stable"
+      },
+      "names": [
+         "Stable"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "bird_hide"
+      },
+      "names": [
+         "Bird Hide"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "stop"
+      },
+      "names": [
+         "Stop Sign"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "scrapyard"
+      },
+      "names": [
+         "Scrap Yard"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "carousel"
+      },
+      "names": [
+         "Carousel"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "magic_carpet"
+      },
+      "names": [
+         "Magic Carpet Lift"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "bed"
+      },
+      "names": [
+         "Bed Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "garages"
+      },
+      "names": [
+         "Garage Landuse"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "coffee"
+      },
+      "names": [
+         "Coffee Shop (Retail)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "scrub"
+      },
+      "names": [
+         "Scrub"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "accountant"
+      },
+      "names": [
+         "Accountant Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "moving_company"
+      },
+      "names": [
+         "Moving Company Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "train"
+      },
+      "names": [
+         "Tourist Train"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "clothes"
+      },
+      "names": [
+         "Clothing Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "secondary"
+      },
+      "names": [
+         "Secondary Road"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "platform"
+      },
+      "names": [
+         "Transit Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "interior_decoration"
+      },
+      "names": [
+         "Interior Decoration Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "residential"
+      },
+      "names": [
+         "Residential Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "gift"
+      },
+      "names": [
+         "Gift Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "upholsterer"
+      },
+      "names": [
+         "Upholsterer"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "amusement_arcade"
+      },
+      "names": [
+         "Amusement Arcade"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position_ferry"
+      },
+      "names": [
+         "Ferry Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "footway"
+      },
+      "names": [
+         "Foot Path"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "it"
+      },
+      "names": [
+         "Information Technology Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "drain"
+      },
+      "names": [
+         "Drain"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "traffic_calming": "rumble_strip"
+      },
+      "names": [
+         "Rumble Strip"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "station"
+      },
+      "names": [
+         "Aerialway Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "appliance"
+      },
+      "names": [
+         "Appliance Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "tobacco"
+      },
+      "names": [
+         "Tobacco Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "transportation"
+      },
+      "names": [
+         "Transportation Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "curtain"
+      },
+      "names": [
+         "Curtain Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "transformer"
+      },
+      "names": [
+         "Transformer"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "ice_cream"
+      },
+      "names": [
+         "Ice Cream Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "doityourself"
+      },
+      "names": [
+         "DIY Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "type": "boundary"
+      },
+      "names": [
+         "Boundary"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "caravan_site"
+      },
+      "names": [
+         "Caravan Park"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "waste_disposal"
+      },
+      "names": [
+         "Garbage Dumpster"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "greenhouse"
+      },
+      "names": [
+         "Greenhouse"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "sanitary_dump_station"
+      },
+      "names": [
+         "Marine Toilet Disposal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "platform_train"
+      },
+      "names": [
+         "Train Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "erotic"
+      },
+      "names": [
+         "Erotic Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "signal"
+      },
+      "names": [
+         "Railway Signal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "garden_centre"
+      },
+      "names": [
+         "Garden Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "motorway_link"
+      },
+      "names": [
+         "Motorway Link"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "electronics_repair"
+      },
+      "names": [
+         "Electronics Repair Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "fashion"
+      },
+      "names": [
+         "Fashion Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "water_point"
+      },
+      "names": [
+         "Marine Drinking Water"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "cafe"
+      },
+      "names": [
+         "Cafe"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "historic": "boundary_stone"
+      },
+      "names": [
+         "Boundary Stone"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "watermill"
+      },
+      "names": [
+         "Watermill"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "plot"
+      },
+      "names": [
+         "Plot"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "mall"
+      },
+      "names": [
+         "Mall"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "seesaw"
+      },
+      "names": [
+         "Seesaw"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "water_tower"
+      },
+      "names": [
+         "Water Tower"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "locksmith"
+      },
+      "names": [
+         "Locksmith"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "chalet"
+      },
+      "names": [
+         "Holiday Cottage"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "telephone"
+      },
+      "names": [
+         "Telephone"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "balance_beam"
+      },
+      "names": [
+         "Play Balance Beam"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "rope_tow"
+      },
+      "names": [
+         "Rope Tow Lift"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "historic": "castle"
+      },
+      "names": [
+         "Castle"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "financial"
+      },
+      "names": [
+         "Financial Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "carpet"
+      },
+      "names": [
+         "Carpet Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "saddle"
+      },
+      "names": [
+         "Saddle"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "river"
+      },
+      "names": [
+         "River"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "line"
+      },
+      "names": [
+         "Power Line"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "life_ring"
+      },
+      "names": [
+         "Life Ring"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "boundary": "administrative"
+      },
+      "names": [
+         "Administrative Boundary"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "hut"
+      },
+      "names": [
+         "Hut"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "basket_maker"
+      },
+      "names": [
+         "Basket Maker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "waste_basket"
+      },
+      "names": [
+         "Rubbish Bin"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "advertising_agency"
+      },
+      "names": [
+         "Advertising Agency"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "leather"
+      },
+      "names": [
+         "Leather Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "neighbourhood"
+      },
+      "names": [
+         "Neighborhood"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "mixed_lift"
+      },
+      "names": [
+         "Mixed Lift"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "works"
+      },
+      "names": [
+         "Factory"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "funicular"
+      },
+      "names": [
+         "Funicular"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "raceway"
+      },
+      "names": [
+         "Racetrack (Motorsport)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "antiques"
+      },
+      "names": [
+         "Antiques Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "glaziery"
+      },
+      "names": [
+         "Glaziery"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "rest_area"
+      },
+      "names": [
+         "Rest Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "farmyard"
+      },
+      "names": [
+         "Farmyard"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "bicycle_repair_station"
+      },
+      "names": [
+         "Bicycle Repair Tool Stand"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "semidetached_house"
+      },
+      "names": [
+         "Semi-Detached House"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position_subway"
+      },
+      "names": [
+         "Subway Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "give_way"
+      },
+      "names": [
+         "Give Way Sign"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aeroway": "terminal"
+      },
+      "names": [
+         "Airport Terminal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "occupational_therapist"
+      },
+      "names": [
+         "Occupational Therapist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "cutline"
+      },
+      "names": [
+         "Cut line"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "religious"
+      },
+      "names": [
+         "Religious Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "bar"
+      },
+      "names": [
+         "Bar"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "midwife"
+      },
+      "names": [
+         "Midwife"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "school"
+      },
+      "names": [
+         "School Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "roundabout"
+      },
+      "names": [
+         "Play Roundabout"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "primary_link"
+      },
+      "names": [
+         "Primary Link"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "notary"
+      },
+      "names": [
+         "Notary Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "bay"
+      },
+      "names": [
+         "Bay"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "gasometer"
+      },
+      "names": [
+         "Gasometer"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "block"
+      },
+      "names": [
+         "Block"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "window_blind"
+      },
+      "names": [
+         "Window Blind Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "artwork"
+      },
+      "names": [
+         "Artwork"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "political_party"
+      },
+      "names": [
+         "Political Party"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "social_facility"
+      },
+      "names": [
+         "Social Facility"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "community_centre"
+      },
+      "names": [
+         "Community Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "playground"
+      },
+      "names": [
+         "Playground"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "studio"
+      },
+      "names": [
+         "Studio"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "bbq"
+      },
+      "names": [
+         "Barbecue/Grill"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "trade"
+      },
+      "names": [
+         "Trade Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "bungee_jumping"
+      },
+      "names": [
+         "Bungee Jumping"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "tower"
+      },
+      "names": [
+         "Tower"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "bakery"
+      },
+      "names": [
+         "Bakery"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "dive_centre"
+      },
+      "names": [
+         "Dive Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "water_park"
+      },
+      "names": [
+         "Water Park"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "peak"
+      },
+      "names": [
+         "Peak"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "bookbinder"
+      },
+      "names": [
+         "Bookbinder"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "ferry_terminal"
+      },
+      "names": [
+         "Ferry Station / Terminal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "street_lamp"
+      },
+      "names": [
+         "Street Light"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "funeral_directors"
+      },
+      "names": [
+         "Funeral Home"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "park"
+      },
+      "names": [
+         "Park"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "static_caravan"
+      },
+      "names": [
+         "Static Caravan"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "bookmaker"
+      },
+      "names": [
+         "Bookmaker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "bureau_de_change"
+      },
+      "names": [
+         "Currency Exchange"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "sculptor"
+      },
+      "names": [
+         "Sculptor"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "picnic_site"
+      },
+      "names": [
+         "Picnic Site"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "stadium"
+      },
+      "names": [
+         "Stadium"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "sauna"
+      },
+      "names": [
+         "Sauna"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "corridor"
+      },
+      "names": [
+         "Indoor Corridor"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "craft"
+      },
+      "names": [
+         "Art and Craft Supplies Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "islet"
+      },
+      "names": [
+         "Islet"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "music_school"
+      },
+      "names": [
+         "Music School"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "military"
+      },
+      "names": [
+         "Military Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "volcano"
+      },
+      "names": [
+         "Volcano"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "swimming_pool"
+      },
+      "names": [
+         "Swimming Pool"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "parking_space"
+      },
+      "names": [
+         "Parking Space"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "temple"
+      },
+      "names": [
+         "Temple Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "ice_rink"
+      },
+      "names": [
+         "Ice Rink"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "service"
+      },
+      "names": [
+         "Service Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "prison"
+      },
+      "names": [
+         "Prison Grounds"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "traffic_calming": "dip"
+      },
+      "names": [
+         "Dip"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "viewpoint"
+      },
+      "names": [
+         "Viewpoint"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "photographic_laboratory"
+      },
+      "names": [
+         "Photographic Laboratory"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "photo"
+      },
+      "names": [
+         "Photography Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "chapel"
+      },
+      "names": [
+         "Chapel Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "second_hand"
+      },
+      "names": [
+         "Second Hand Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "bumper_car"
+      },
+      "names": [
+         "Bumper Car"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "residential"
+      },
+      "names": [
+         "Residential Road"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "radiotechnics"
+      },
+      "names": [
+         "Radio/Electronic Component Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "island"
+      },
+      "names": [
+         "Island"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "reef"
+      },
+      "names": [
+         "Reef"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "platform"
+      },
+      "names": [
+         "Train Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "path"
+      },
+      "names": [
+         "Path"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "tinsmith"
+      },
+      "names": [
+         "Tinsmith"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "greengrocer"
+      },
+      "names": [
+         "Greengrocer"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "motorcycle"
+      },
+      "names": [
+         "Motorcycle Dealership"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "coastline"
+      },
+      "names": [
+         "Coastline"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "car_sharing"
+      },
+      "names": [
+         "Car Sharing"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "bicycle"
+      },
+      "names": [
+         "Bicycle Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "compressed_air"
+      },
+      "names": [
+         "Compressed Air"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "plant_nursery"
+      },
+      "names": [
+         "Plant Nursery"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "historic": "monument"
+      },
+      "names": [
+         "Monument"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "apartment"
+      },
+      "names": [
+         "Guest Apartment / Condo"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "mini_roundabout"
+      },
+      "names": [
+         "Mini-Roundabout"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position_light_rail"
+      },
+      "names": [
+         "Light Rail Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "picnic_table"
+      },
+      "names": [
+         "Picnic Table"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "area": "highway"
+      },
+      "names": [
+         "Road Surface"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "petroleum_well"
+      },
+      "names": [
+         "Oil Well"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "government"
+      },
+      "names": [
+         "Government Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "firepit"
+      },
+      "names": [
+         "Firepit"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "cathedral"
+      },
+      "names": [
+         "Cathedral Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "dormitory"
+      },
+      "names": [
+         "Dormitory"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "fishmonger"
+      },
+      "names": [
+         "Fishmonger"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "destination"
+      },
+      "names": [
+         "Emergency Access Destination"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "hifi"
+      },
+      "names": [
+         "Hifi Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "bus_guideway"
+      },
+      "names": [
+         "Bus Guideway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "farmland"
+      },
+      "names": [
+         "Farmland"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "photographer"
+      },
+      "names": [
+         "Photographer"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "pawnbroker"
+      },
+      "names": [
+         "Pawn Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "water_point"
+      },
+      "names": [
+         "RV Drinking Water"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "chimney"
+      },
+      "names": [
+         "Chimney"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "resort"
+      },
+      "names": [
+         "Resort"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "museum"
+      },
+      "names": [
+         "Museum"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "weir"
+      },
+      "names": [
+         "Weir"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "historic": "wayside_cross"
+      },
+      "names": [
+         "Wayside Cross"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "cycleway"
+      },
+      "names": [
+         "Cycle Path"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "marina"
+      },
+      "names": [
+         "Marina"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "hospice"
+      },
+      "names": [
+         "Hospice"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "guide"
+      },
+      "names": [
+         "Tour Guide Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "boatbuilder"
+      },
+      "names": [
+         "Boat Builder"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "primary"
+      },
+      "names": [
+         "Primary Road"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "florist"
+      },
+      "names": [
+         "Florist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "meadow"
+      },
+      "names": [
+         "Meadow"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "organic"
+      },
+      "names": [
+         "Organic Goods Store"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "hairdresser"
+      },
+      "names": [
+         "Hairdresser"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "marketplace"
+      },
+      "names": [
+         "Marketplace"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "windmill"
+      },
+      "names": [
+         "Windmill"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "city"
+      },
+      "names": [
+         "City"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "lighthouse"
+      },
+      "names": [
+         "Lighthouse"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "tertiary_link"
+      },
+      "names": [
+         "Tertiary Link"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "smoking_area"
+      },
+      "names": [
+         "Smoking Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "psychotherapist"
+      },
+      "names": [
+         "Psychotherapist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "herbalist"
+      },
+      "names": [
+         "Herbalist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "greenfield"
+      },
+      "names": [
+         "Greenfield"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "ridge"
+      },
+      "names": [
+         "Ridge"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "dancing_school"
+      },
+      "names": [
+         "Dance School"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "painter"
+      },
+      "names": [
+         "Painter"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "survey_point"
+      },
+      "names": [
+         "Survey Point"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "hamlet"
+      },
+      "names": [
+         "Hamlet"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "historic": "ruins"
+      },
+      "names": [
+         "Ruins"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "laundry"
+      },
+      "names": [
+         "Laundry"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "wastewater_plant"
+      },
+      "names": [
+         "Wastewater Plant"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "health_food"
+      },
+      "names": [
+         "Health Food Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "pumping_station"
+      },
+      "names": [
+         "Pumping Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "bathroom_furnishing"
+      },
+      "names": [
+         "Bathroom Furnishing Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "monastery"
+      },
+      "names": [
+         "Monastery Grounds"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "retail"
+      },
+      "names": [
+         "Retail Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "speed_camera"
+      },
+      "names": [
+         "Speed Camera"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "forestry"
+      },
+      "names": [
+         "Forestry Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "nursing_home"
+      },
+      "names": [
+         "Nursing Home"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "historic": "archaeological_site"
+      },
+      "names": [
+         "Archaeological Site"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "construction"
+      },
+      "names": [
+         "Construction"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "golf": "fairway"
+      },
+      "names": [
+         "Fairway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "pylon"
+      },
+      "names": [
+         "Aerialway Pylon"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "basket_spinner"
+      },
+      "names": [
+         "Basket Spinner"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "camp_site"
+      },
+      "names": [
+         "Camp Site"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "manhole": "drain"
+      },
+      "names": [
+         "Storm Drain"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "sailmaker"
+      },
+      "names": [
+         "Sailmaker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "newsagent"
+      },
+      "names": [
+         "Newspaper/Magazine Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "farm"
+      },
+      "names": [
+         "Farm"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "dance"
+      },
+      "names": [
+         "Dance Hall"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aeroway": "helipad"
+      },
+      "names": [
+         "Helipad"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "houseware"
+      },
+      "names": [
+         "Houseware Store"
+      ],
+      "keywords": [
+         "homeware",
+         "kitchenware",
+         "linen",
+         "crockery"
+      ]
+   },
+   {
+      "tags": {
+         "public_transport": "platform_bus"
+      },
+      "names": [
+         "Bus Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "storage_rental"
+      },
+      "names": [
+         "Storage Rental"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "estate_agent"
+      },
+      "names": [
+         "Estate Agent"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "hostel"
+      },
+      "names": [
+         "Hostel"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "allotments"
+      },
+      "names": [
+         "Allotments"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "plant"
+      },
+      "names": [
+         "Power Station Grounds"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "stream"
+      },
+      "names": [
+         "Stream"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "village"
+      },
+      "names": [
+         "Village"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "music"
+      },
+      "names": [
+         "Music Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "townhall"
+      },
+      "names": [
+         "Town Hall"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "platform_trolleybus"
+      },
+      "names": [
+         "Trolleybus Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "route": "ferry"
+      },
+      "names": [
+         "Ferry Route"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "payment_centre"
+      },
+      "names": [
+         "Payment Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "ranger_station"
+      },
+      "names": [
+         "Warden Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "boutique"
+      },
+      "names": [
+         "Boutique"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "city_wall"
+      },
+      "names": [
+         "City Wall"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "research"
+      },
+      "names": [
+         "Research Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "station"
+      },
+      "names": [
+         "Train Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "fence"
+      },
+      "names": [
+         "Fence"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "money_lender"
+      },
+      "names": [
+         "Money Lender"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "embankment"
+      },
+      "names": [
+         "Embankment"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "retail"
+      },
+      "names": [
+         "Retail Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "traffic_calming": "choker"
+      },
+      "names": [
+         "Traffic Choker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "track"
+      },
+      "names": [
+         "Track"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position_bus"
+      },
+      "names": [
+         "Bus Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "slide"
+      },
+      "names": [
+         "Slide"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "sanitary_dump_station"
+      },
+      "names": [
+         "RV Toilet Disposal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_trolleybus"
+      },
+      "names": [
+         "Trolleybus Station / Terminal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "house"
+      },
+      "names": [
+         "House"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "elevator"
+      },
+      "names": [
+         "Lift"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "traffic_calming": "chicane"
+      },
+      "names": [
+         "Traffic Chicane"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_train"
+      },
+      "names": [
+         "Train Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "ambulance_station"
+      },
+      "names": [
+         "Ambulance Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "defibrillator"
+      },
+      "names": [
+         "Defibrillator"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "dark_ride"
+      },
+      "names": [
+         "Ghost Train"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "border_control"
+      },
+      "names": [
+         "Border Control"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "boat_rental"
+      },
+      "names": [
+         "Boat Rental"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "tree"
+      },
+      "names": [
+         "Tree"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "storage_tank"
+      },
+      "names": [
+         "Storage Tank"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "lawyer"
+      },
+      "names": [
+         "Law Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "tertiary"
+      },
+      "names": [
+         "Tertiary Road"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "square"
+      },
+      "names": [
+         "Square"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "bowling_alley"
+      },
+      "names": [
+         "Bowling Alley"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "adit"
+      },
+      "names": [
+         "Adit"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "civic"
+      },
+      "names": [
+         "Civic Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "taxi"
+      },
+      "names": [
+         "Taxi Stand"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "seafood"
+      },
+      "names": [
+         "Seafood Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "commercial"
+      },
+      "names": [
+         "Commercial Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "cinema"
+      },
+      "names": [
+         "Cinema"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "waste_transfer_station"
+      },
+      "names": [
+         "Waste Transfer Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "tiles"
+      },
+      "names": [
+         "Tile Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "spring"
+      },
+      "names": [
+         "Spring"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "tattoo"
+      },
+      "names": [
+         "Tattoo Parlor"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "baby_goods"
+      },
+      "names": [
+         "Baby Goods Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "charging_station"
+      },
+      "names": [
+         "Charging Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_aerialway"
+      },
+      "names": [
+         "Aerialway Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "barn"
+      },
+      "names": [
+         "Barn"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "public_bath"
+      },
+      "names": [
+         "Public Bath"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "rehabilitation"
+      },
+      "names": [
+         "Rehabilitation Facility"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "water_utility"
+      },
+      "names": [
+         "Water Utility Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "traffic_calming": "cushion"
+      },
+      "names": [
+         "Speed Cushion"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "furniture"
+      },
+      "names": [
+         "Furniture Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "swimming_pool"
+      },
+      "names": [
+         "Swimming Pool"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "maze"
+      },
+      "names": [
+         "Maze"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "disused"
+      },
+      "names": [
+         "Disused Railway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "toll_booth"
+      },
+      "names": [
+         "Toll Booth"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "supermarket"
+      },
+      "names": [
+         "Supermarket"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "wetland"
+      },
+      "names": [
+         "Wetland"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "mobile_phone"
+      },
+      "names": [
+         "Mobile Phone Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "scuba_diving"
+      },
+      "names": [
+         "Scuba Diving Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "crossing"
+      },
+      "names": [
+         "Level Crossing (Path)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "veterinary"
+      },
+      "names": [
+         "Veterinary"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "blood_donation"
+      },
+      "names": [
+         "Blood Donor Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "nutrition_supplements"
+      },
+      "names": [
+         "Nutrition Supplements Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "fire_station"
+      },
+      "names": [
+         "Fire Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "bollard"
+      },
+      "names": [
+         "Bollard"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "cave_entrance"
+      },
+      "names": [
+         "Cave Entrance"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "private"
+      },
+      "names": [
+         "Emergency Access Private"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "shoemaker"
+      },
+      "names": [
+         "Shoemaker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "information"
+      },
+      "names": [
+         "Information"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "drag_lift"
+      },
+      "names": [
+         "Drag Lift"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "medical_supply"
+      },
+      "names": [
+         "Medical Supply Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "mast"
+      },
+      "names": [
+         "Mast"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "goods"
+      },
+      "names": [
+         "Goods Aerialway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "cushion"
+      },
+      "names": [
+         "Bouncy Cushion"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "cattle_grid"
+      },
+      "names": [
+         "Cattle Grid"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "bus_stop"
+      },
+      "names": [
+         "Bus Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "therapist"
+      },
+      "names": [
+         "Therapist Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "pastry"
+      },
+      "names": [
+         "Pastry Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "platform_ferry"
+      },
+      "names": [
+         "Ferry Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "type": "multipolygon"
+      },
+      "names": [
+         "Multipolygon"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "wall"
+      },
+      "names": [
+         "Wall"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "water_sports"
+      },
+      "names": [
+         "Watersport/Swim Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "tax_advisor"
+      },
+      "names": [
+         "Tax Advisor Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "theme_park"
+      },
+      "names": [
+         "Theme Park"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "theatre"
+      },
+      "names": [
+         "Theatre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "flagpole"
+      },
+      "names": [
+         "Flagpole"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_light_rail"
+      },
+      "names": [
+         "Light Rail Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "ditch"
+      },
+      "names": [
+         "Ditch"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "hotel"
+      },
+      "names": [
+         "Hotel Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "passing_place"
+      },
+      "names": [
+         "Passing Place"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "farm"
+      },
+      "names": [
+         "Farm Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "historic": "memorial"
+      },
+      "names": [
+         "Memorial"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "crematorium"
+      },
+      "names": [
+         "Crematorium"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "parking"
+      },
+      "names": [
+         "Car Park"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "gallery"
+      },
+      "names": [
+         "Art Gallery"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position"
+      },
+      "names": [
+         "Transit Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "road"
+      },
+      "names": [
+         "Unknown Road"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "tower"
+      },
+      "names": [
+         "High-Voltage Tower"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "platform_aerialway"
+      },
+      "names": [
+         "Aerialway Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "dock"
+      },
+      "names": [
+         "Wet Dock / Dry Dock"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "books"
+      },
+      "names": [
+         "Book Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "video"
+      },
+      "names": [
+         "Video/DVD Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "gardener"
+      },
+      "names": [
+         "Gardener"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "love_hotel"
+      },
+      "names": [
+         "Love Hotel"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "bus_station"
+      },
+      "names": [
+         "Bus Station / Terminal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "rigger"
+      },
+      "names": [
+         "Rigger"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "coworking"
+      },
+      "names": [
+         "Coworking Space"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_ferry"
+      },
+      "names": [
+         "Ferry Station / Terminal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "heath"
+      },
+      "names": [
+         "Heath"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "embassy"
+      },
+      "names": [
+         "Embassy"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "travel_agency"
+      },
+      "names": [
+         "Travel Agency"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "stream_intermittent"
+      },
+      "names": [
+         "Intermittent Stream"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "stile"
+      },
+      "names": [
+         "Stile"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "services"
+      },
+      "names": [
+         "Service Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "horse_riding"
+      },
+      "names": [
+         "Horseback Riding Facility"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_monorail"
+      },
+      "names": [
+         "Monorail Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "church"
+      },
+      "names": [
+         "Church Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "animal_shelter"
+      },
+      "names": [
+         "Animal Shelter"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "grass"
+      },
+      "names": [
+         "Grass"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "cable_car"
+      },
+      "names": [
+         "Cable Car"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "car_rental"
+      },
+      "names": [
+         "Car Rental"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "fabric"
+      },
+      "names": [
+         "Fabric Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "outdoor_seating"
+      },
+      "names": [
+         "Outdoor Seating Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "detached"
+      },
+      "names": [
+         "Detached House"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "crane"
+      },
+      "names": [
+         "Crane"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "recreation_ground"
+      },
+      "names": [
+         "Recreation Ground"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "cemetery"
+      },
+      "names": [
+         "Cemetery"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "childcare"
+      },
+      "names": [
+         "Nursery/Childcare"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "atm"
+      },
+      "names": [
+         "Cash Machine"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "educational_institution"
+      },
+      "names": [
+         "Educational Institution"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position_aerialway"
+      },
+      "names": [
+         "Aerialway Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "water_well"
+      },
+      "names": [
+         "Water Well"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "dressmaker"
+      },
+      "names": [
+         "Dressmaker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "shower"
+      },
+      "names": [
+         "Shower"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "audiologist"
+      },
+      "names": [
+         "Audiologist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "tyres"
+      },
+      "names": [
+         "Tyre Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "adult_gaming_centre"
+      },
+      "names": [
+         "Adult Gaming Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "charity"
+      },
+      "names": [
+         "Charity Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "suburb"
+      },
+      "names": [
+         "Borough / Suburb"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position_train"
+      },
+      "names": [
+         "Train Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "quarter"
+      },
+      "names": [
+         "Sub-Borough / Quarter"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "pottery"
+      },
+      "names": [
+         "Pottery"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "confectionery"
+      },
+      "names": [
+         "Candy Maker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "adoption_agency"
+      },
+      "names": [
+         "Adoption Agency"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "cliff"
+      },
+      "names": [
+         "Cliff"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "pole"
+      },
+      "names": [
+         "Power Pole"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "gate"
+      },
+      "names": [
+         "Gate"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "animal_boarding"
+      },
+      "names": [
+         "Animal Boarding Facility"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "traffic_calming": "table"
+      },
+      "names": [
+         "Speed Table"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "quango"
+      },
+      "names": [
+         "Quasi-NGO Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "electrician"
+      },
+      "names": [
+         "Electrician"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "unclassified"
+      },
+      "names": [
+         "Minor/Unclassified Road"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "milestone"
+      },
+      "names": [
+         "Railway Milestone"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "parking_entrance"
+      },
+      "names": [
+         "Parking Garage Entrance/Exit"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "fast_food"
+      },
+      "names": [
+         "Fast Food"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "carpenter"
+      },
+      "names": [
+         "Carpenter"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station"
+      },
+      "names": [
+         "Transit Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "stadium"
+      },
+      "names": [
+         "Stadium Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "type": "site"
+      },
+      "names": [
+         "Site"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "key_cutter"
+      },
+      "names": [
+         "Key Cutter"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_train_halt"
+      },
+      "names": [
+         "Train Station (Halt / Request)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "turning_circle"
+      },
+      "names": [
+         "Turning Circle"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "retaining_wall"
+      },
+      "names": [
+         "Retaining Wall"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "grandstand"
+      },
+      "names": [
+         "Grandstand"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "stonemason"
+      },
+      "names": [
+         "Stonemason"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "mud"
+      },
+      "names": [
+         "Mud"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "animal"
+      },
+      "names": [
+         "Animal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "generator"
+      },
+      "names": [
+         "Power Generator"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "platform_monorail"
+      },
+      "names": [
+         "Monorail Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "halt"
+      },
+      "names": [
+         "Train Station (Halt / Request)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_subway"
+      },
+      "names": [
+         "Subway Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "platform_tram"
+      },
+      "names": [
+         "Tram Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "glacier"
+      },
+      "names": [
+         "Glacier"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "company"
+      },
+      "names": [
+         "Corporate Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "level_crossing"
+      },
+      "names": [
+         "Level Crossing (Road)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "hedge"
+      },
+      "names": [
+         "Hedge"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "beekeeper"
+      },
+      "names": [
+         "Beekeeper"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "substation"
+      },
+      "names": [
+         "Substation"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "greenhouse_horticulture"
+      },
+      "names": [
+         "Greenhouse Horticulture"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "vacuum_cleaner"
+      },
+      "names": [
+         "Vacuum Cleaner Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "fountain"
+      },
+      "names": [
+         "Fountain"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "podiatrist"
+      },
+      "names": [
+         "Podiatrist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position_trolleybus"
+      },
+      "names": [
+         "Trolleybus Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "kindergarten"
+      },
+      "names": [
+         "Preschool/Kindergarten Grounds"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "landfill"
+      },
+      "names": [
+         "Landfill"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "derail"
+      },
+      "names": [
+         "Railway Derailer"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "gondola"
+      },
+      "names": [
+         "Gondola"
+      ],
+      "keywords": [
+         "Dangleway"
+      ]
+   },
+   {
+      "tags": {
+         "amenity": "restaurant"
+      },
+      "names": [
+         "Restaurant"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "clinic"
+      },
+      "names": [
+         "Clinic"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "bungalow"
+      },
+      "names": [
+         "Bungalow"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "energy_supplier"
+      },
+      "names": [
+         "Energy Supplier Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "ditch"
+      },
+      "names": [
+         "Trench"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "canal"
+      },
+      "names": [
+         "Canal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "type": "route_master"
+      },
+      "names": [
+         "Route Master"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "arts_centre"
+      },
+      "names": [
+         "Arts Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "college"
+      },
+      "names": [
+         "College Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "subway"
+      },
+      "names": [
+         "Subway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "handicraft"
+      },
+      "names": [
+         "Handicraft"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aeroway": "taxiway"
+      },
+      "names": [
+         "Taxiway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "outdoor"
+      },
+      "names": [
+         "Outdoors Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "entrance"
+      },
+      "names": [
+         "Entrance"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "phone"
+      },
+      "names": [
+         "Emergency Phone"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "beach_resort"
+      },
+      "names": [
+         "Beach Resort"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "weapons"
+      },
+      "names": [
+         "Weapon Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "yes"
+      },
+      "names": [
+         "Emergency Access Yes"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "alpine_hut"
+      },
+      "names": [
+         "Alpine Hut"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "basin"
+      },
+      "names": [
+         "Basin"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "kindergarten"
+      },
+      "names": [
+         "Preschool/Kindergarten Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "tailor"
+      },
+      "names": [
+         "Tailor"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "churchyard"
+      },
+      "names": [
+         "Churchyard"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "terrace"
+      },
+      "names": [
+         "Terraced houses"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "university"
+      },
+      "names": [
+         "University Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_area"
+      },
+      "names": [
+         "Transit Stop Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position_tram"
+      },
+      "names": [
+         "Tram Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "blacksmith"
+      },
+      "names": [
+         "Blacksmith"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "optometrist"
+      },
+      "names": [
+         "Optometrist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "traffic_calming": "hump"
+      },
+      "names": [
+         "Speed Hump"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "wholesale"
+      },
+      "names": [
+         "Wholesale Shop / Cash & Carry "
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "miniature_golf"
+      },
+      "names": [
+         "Miniature Golf"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "insurance"
+      },
+      "names": [
+         "Insurance Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "boathouse"
+      },
+      "names": [
+         "Boathouse"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "miniature"
+      },
+      "names": [
+         "Miniature Railway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "switch"
+      },
+      "names": [
+         "Railway Switch"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "casino"
+      },
+      "names": [
+         "Casino"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "vineyard"
+      },
+      "names": [
+         "Vineyard"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "vacant"
+      },
+      "names": [
+         "Vacant Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "sandpit"
+      },
+      "names": [
+         "Sandpit"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "candles"
+      },
+      "names": [
+         "Candle Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "switch"
+      },
+      "names": [
+         "Power Switch"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "beverages"
+      },
+      "names": [
+         "Beverages Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "waterfall"
+      },
+      "names": [
+         "Waterfall"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "association"
+      },
+      "names": [
+         "Nonprofit Organization Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "deli"
+      },
+      "names": [
+         "Deli"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "horizontal_bar"
+      },
+      "names": [
+         "Play Horizontal Bar"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "nightclub"
+      },
+      "names": [
+         "Nightclub"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "watchmaker"
+      },
+      "names": [
+         "Watchmaker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "perfumery"
+      },
+      "names": [
+         "Perfume Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "aquaculture"
+      },
+      "names": [
+         "Aquaculture"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "garages"
+      },
+      "names": [
+         "Garages"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "hackerspace"
+      },
+      "names": [
+         "Hackerspace"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "bunker"
+      },
+      "names": [
+         "Bunker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "monorail"
+      },
+      "names": [
+         "Monorail"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "light_rail"
+      },
+      "names": [
+         "Light Rail"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "tram"
+      },
+      "names": [
+         "Tram"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "food_court"
+      },
+      "names": [
+         "Food Court"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "jeweler"
+      },
+      "names": [
+         "Jeweler"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "shoes"
+      },
+      "names": [
+         "Shoe Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "copyshop"
+      },
+      "names": [
+         "Copyshop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "narrow_gauge"
+      },
+      "names": [
+         "Narrow Gauge Rail"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "locksmith"
+      },
+      "names": [
+         "Locksmith"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "hearing_aids"
+      },
+      "names": [
+         "Hearing Aids Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "cabin"
+      },
+      "names": [
+         "Cabin"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "attraction"
+      },
+      "names": [
+         "Tourist Attraction"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "trail_riding_station"
+      },
+      "names": [
+         "Trail Riding Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "water_works"
+      },
+      "names": [
+         "Water Works"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "clock"
+      },
+      "names": [
+         "Clock"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "quarry"
+      },
+      "names": [
+         "Quarry"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "bicycle_parking"
+      },
+      "names": [
+         "Bicycle Parking"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "roof"
+      },
+      "names": [
+         "Roof"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "locality"
+      },
+      "names": [
+         "Locality"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "paint"
+      },
+      "names": [
+         "Paint Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "kissing_gate"
+      },
+      "names": [
+         "Kissing Gate"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "art"
+      },
+      "names": [
+         "Art Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "lift_gate"
+      },
+      "names": [
+         "Lift Gate"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "basket_swing"
+      },
+      "names": [
+         "Basket Swing"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "mosque"
+      },
+      "names": [
+         "Mosque Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "drinking_water"
+      },
+      "names": [
+         "Drinking Water"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "tailor"
+      },
+      "names": [
+         "Tailor"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "cheese"
+      },
+      "names": [
+         "Cheese Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "post_office"
+      },
+      "names": [
+         "Post Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "dentist"
+      },
+      "names": [
+         "Dentist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "water_tank"
+      },
+      "names": [
+         "Emergency Water Tank"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "architect"
+      },
+      "names": [
+         "Architect Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "platform_light_rail"
+      },
+      "names": [
+         "Light Rail Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "fell"
+      },
+      "names": [
+         "Fell"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "caterer"
+      },
+      "names": [
+         "Caterer"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "toilets"
+      },
+      "names": [
+         "Toilets"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "hvac"
+      },
+      "names": [
+         "HVAC"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "brewery"
+      },
+      "names": [
+         "Brewery"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "motel"
+      },
+      "names": [
+         "Motel"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "subway_entrance"
+      },
+      "names": [
+         "Subway Entrance"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "barrier": "kerb"
+      },
+      "names": [
+         "Kerb"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "car_repair"
+      },
+      "names": [
+         "Car Repair Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "groyne"
+      },
+      "names": [
+         "Groyne"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "police"
+      },
+      "names": [
+         "Police"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "sub_station"
+      },
+      "names": [
+         "Substation"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "public"
+      },
+      "names": [
+         "Public Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "stationery"
+      },
+      "names": [
+         "Stationery Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "allotments": "plot"
+      },
+      "names": [
+         "Allotments Plot"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "optician"
+      },
+      "names": [
+         "Optician"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "administrative"
+      },
+      "names": [
+         "Administrative Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "nature_reserve"
+      },
+      "names": [
+         "Nature Reserve"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "pedestrian_area"
+      },
+      "names": [
+         "Pedestrian Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "advertising": "billboard"
+      },
+      "names": [
+         "Billboard"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "massage"
+      },
+      "names": [
+         "Massage Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "camp_site": "camp_pitch"
+      },
+      "names": [
+         "Camp Pitch"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "farm"
+      },
+      "names": [
+         "Farmland"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "dry_cleaning"
+      },
+      "names": [
+         "Dry Cleaner"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "internet_cafe"
+      },
+      "names": [
+         "Internet Cafe"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aeroway": "aerodrome"
+      },
+      "names": [
+         "Airport"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "abandoned"
+      },
+      "names": [
+         "Abandoned Railway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "common"
+      },
+      "names": [
+         "Common"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "golf": "tee"
+      },
+      "names": [
+         "Tee Box"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "turning_loop"
+      },
+      "names": [
+         "Turning Loop (Island)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "physician"
+      },
+      "names": [
+         "Physician"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "anime"
+      },
+      "names": [
+         "Anime Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "fuel"
+      },
+      "names": [
+         "Marine Fuel Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "type": "waterway"
+      },
+      "names": [
+         "Waterway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "railway"
+      },
+      "names": [
+         "Railway Corridor"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "zipwire"
+      },
+      "names": [
+         "Zip Wire"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "video_games"
+      },
+      "names": [
+         "Video Games Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "industrial"
+      },
+      "names": [
+         "Industrial Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "grave_yard"
+      },
+      "names": [
+         "Graveyard"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "entrance"
+      },
+      "names": [
+         "Entrance/Exit"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "ruins"
+      },
+      "names": [
+         "Building Ruins"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "beach"
+      },
+      "names": [
+         "Beach"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "convenience"
+      },
+      "names": [
+         "Convenience Store"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "swing"
+      },
+      "names": [
+         "Swing"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "sawmill"
+      },
+      "names": [
+         "Sawmill"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "plumber"
+      },
+      "names": [
+         "Plumber"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "fitness_station"
+      },
+      "names": [
+         "Outdoor Fitness Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "pipeline"
+      },
+      "names": [
+         "Pipeline"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "bare_rock"
+      },
+      "names": [
+         "Bare Rock"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "wood"
+      },
+      "names": [
+         "Wood"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "farm_auxiliary"
+      },
+      "names": [
+         "Farm Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "drop_tower"
+      },
+      "names": [
+         "Drop Tower"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "doctors"
+      },
+      "names": [
+         "Doctor"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "slipway"
+      },
+      "names": [
+         "Slipway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "no"
+      },
+      "names": [
+         "Emergency Access No"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "official"
+      },
+      "names": [
+         "Emergency Access Official"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "t-bar"
+      },
+      "names": [
+         "T-bar Lift"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "chemist"
+      },
+      "names": [
+         "Chemist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "aquarium"
+      },
+      "names": [
+         "Aquarium"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "town"
+      },
+      "names": [
+         "Town"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "tram_stop"
+      },
+      "names": [
+         "Tram Stopping Position"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "pyrotechnics"
+      },
+      "names": [
+         "Fireworks Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "trunk"
+      },
+      "names": [
+         "Trunk Road"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "pier"
+      },
+      "names": [
+         "Pier"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "dam"
+      },
+      "names": [
+         "Dam"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "farm"
+      },
+      "names": [
+         "Farm House"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "recycling_centre"
+      },
+      "names": [
+         "Recycling Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "tea"
+      },
+      "names": [
+         "Tea Shop (Retail)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "private_investigator"
+      },
+      "names": [
+         "Private Investigator Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "watering_place"
+      },
+      "names": [
+         "Animal Watering Place"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "dairy"
+      },
+      "names": [
+         "Dairy Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "motorcycle_repair"
+      },
+      "names": [
+         "Motorcycle Repair Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "bridge"
+      },
+      "names": [
+         "Bridge"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "platform_subway"
+      },
+      "names": [
+         "Subway Stop / Platform"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "car_pooling"
+      },
+      "names": [
+         "Car Pooling"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "alternative"
+      },
+      "names": [
+         "Alternative Medicine"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "stop_position_monorail"
+      },
+      "names": [
+         "Monorail Stopping Location"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "fuel"
+      },
+      "names": [
+         "Petrol Station"
+      ],
+      "keywords": [
+         "gas",
+         "fuel",
+         "propane",
+         "diesel",
+         "lng",
+         "cng",
+         "biodiesel"
+      ]
+   },
+   {
+      "tags": {
+         "shop": "car_parts"
+      },
+      "names": [
+         "Car Parts Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "grit_bin"
+      },
+      "names": [
+         "Grit Bin"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "telecommunication"
+      },
+      "names": [
+         "Telecom Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "department_store"
+      },
+      "names": [
+         "Department Store"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "garden"
+      },
+      "names": [
+         "Garden"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "secondary_link"
+      },
+      "names": [
+         "Secondary Link"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "e-cigarette"
+      },
+      "names": [
+         "E-Cigarette Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "roofer"
+      },
+      "names": [
+         "Roofer"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "place_of_worship"
+      },
+      "names": [
+         "Place of Worship"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "big_wheel"
+      },
+      "names": [
+         "Big Wheel"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "toys"
+      },
+      "names": [
+         "Toy Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "silo"
+      },
+      "names": [
+         "Silo"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "variety_store"
+      },
+      "names": [
+         "Variety Store"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "school"
+      },
+      "names": [
+         "School Grounds"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "kitchen"
+      },
+      "names": [
+         "Kitchen Design Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "train_wash"
+      },
+      "names": [
+         "Train Wash"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "guest_house"
+      },
+      "names": [
+         "Guest House"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "pet"
+      },
+      "names": [
+         "Pet Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "tiler"
+      },
+      "names": [
+         "Tiler"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "residential"
+      },
+      "names": [
+         "Residential Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aeroway": "apron"
+      },
+      "names": [
+         "Apron"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "riverbank"
+      },
+      "names": [
+         "Riverbank"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "bank"
+      },
+      "names": [
+         "Bank"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "register_office"
+      },
+      "names": [
+         "Register Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "butcher"
+      },
+      "names": [
+         "Butcher"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "hospital"
+      },
+      "names": [
+         "Hospital Grounds"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "planetarium"
+      },
+      "names": [
+         "Planetarium"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "bag"
+      },
+      "names": [
+         "Bag/Luggage Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_tram"
+      },
+      "names": [
+         "Tram Station"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aeroway": "runway"
+      },
+      "names": [
+         "Runway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "trunk_link"
+      },
+      "names": [
+         "Trunk Link"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "pirate_ship"
+      },
+      "names": [
+         "Pirate Ship"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "golf": "bunker"
+      },
+      "names": [
+         "Bunker"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "distillery"
+      },
+      "names": [
+         "Distillery"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "zoo"
+      },
+      "names": [
+         "Zoo"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aeroway": "gate"
+      },
+      "names": [
+         "Airport Gate"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "speech_therapist"
+      },
+      "names": [
+         "Speech Therapist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "saddler"
+      },
+      "names": [
+         "Saddler"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "insulator"
+      },
+      "names": [
+         "Insulator"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "traffic_calming": "island"
+      },
+      "names": [
+         "Traffic Island"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "car"
+      },
+      "names": [
+         "Car Dealership"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "alcohol"
+      },
+      "names": [
+         "Off licence (Alcohol shop)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "car_wash"
+      },
+      "names": [
+         "Car Wash"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "pet_grooming"
+      },
+      "names": [
+         "Pet Grooming Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "industrial"
+      },
+      "names": [
+         "Industrial Area"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "optician"
+      },
+      "names": [
+         "Optician"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "dog_park"
+      },
+      "names": [
+         "Dog Park"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "power": "minor_line"
+      },
+      "names": [
+         "Minor Power Line"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "chocolate"
+      },
+      "names": [
+         "Chocolate Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "pub"
+      },
+      "names": [
+         "Pub"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "bench"
+      },
+      "names": [
+         "Bench"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "university"
+      },
+      "names": [
+         "University Grounds"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aerialway": "platter"
+      },
+      "names": [
+         "Platter Lift"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "scree"
+      },
+      "names": [
+         "Scree"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "climbing_frame"
+      },
+      "names": [
+         "Climbing Frame"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "pedestrian_line"
+      },
+      "names": [
+         "Pedestrian Street"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "aeroway": "hangar"
+      },
+      "names": [
+         "Hangar"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "shed"
+      },
+      "names": [
+         "Shed"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "traffic_signals"
+      },
+      "names": [
+         "Traffic Lights"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "cosmetics"
+      },
+      "names": [
+         "Cosmetics Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "traffic_calming": "bump"
+      },
+      "names": [
+         "Speed Bump"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "place": "isolated_dwelling"
+      },
+      "names": [
+         "Isolated Dwelling"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "charity"
+      },
+      "names": [
+         "Charity Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "tourism": "wilderness_hut"
+      },
+      "names": [
+         "Wilderness Hut"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "waterway": "boatyard"
+      },
+      "names": [
+         "Boatyard"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "rocker"
+      },
+      "names": [
+         "Spring Rider"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "animal_breeding"
+      },
+      "names": [
+         "Animal Breeding Facility"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "bicycle_rental"
+      },
+      "names": [
+         "Bicycle Rental"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "frame"
+      },
+      "names": [
+         "Framing Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "driving_school"
+      },
+      "names": [
+         "Driving School"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "hospital"
+      },
+      "names": [
+         "Hospital Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "computer"
+      },
+      "names": [
+         "Computer Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "watches"
+      },
+      "names": [
+         "Watches Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "surveyor"
+      },
+      "names": [
+         "Surveyor Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "traffic_mirror"
+      },
+      "names": [
+         "Traffic Mirror"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "plasterer"
+      },
+      "names": [
+         "Plasterer"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "surveillance"
+      },
+      "names": [
+         "Surveillance"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "brownfield"
+      },
+      "names": [
+         "Brownfield"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "musical_instrument"
+      },
+      "names": [
+         "Musical Instrument Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "emergency": "designated"
+      },
+      "names": [
+         "Emergency Access Designated"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "noexit": "yes"
+      },
+      "names": [
+         "No Exit"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "public_transport": "station_bus"
+      },
+      "names": [
+         "Bus Station / Terminal"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "steps"
+      },
+      "names": [
+         "Steps"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "landuse": "harbour"
+      },
+      "names": [
+         "Harbor"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "gas"
+      },
+      "names": [
+         "Bottled Gas Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "post_box"
+      },
+      "names": [
+         "Post Box"
+      ],
+      "keywords": [
+         "Mailbox"
+      ]
+   },
+   {
+      "tags": {
+         "building": "commercial"
+      },
+      "names": [
+         "Commercial Building"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "playground": "structure"
+      },
+      "names": [
+         "Play Structure"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "birthing_center"
+      },
+      "names": [
+         "Birthing Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "electronics"
+      },
+      "names": [
+         "Electronics Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "vending_machine"
+      },
+      "names": [
+         "Vending Machine"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "historic": "wayside_shrine"
+      },
+      "names": [
+         "Wayside Shrine"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "shelter"
+      },
+      "names": [
+         "Shelter"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "newspaper"
+      },
+      "names": [
+         "Newspaper Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "hunting_stand"
+      },
+      "names": [
+         "Hunting Stand"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "man_made": "breakwater"
+      },
+      "names": [
+         "Breakwater"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "fitness_centre"
+      },
+      "names": [
+         "Gym / Fitness Centre"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "public_bookcase"
+      },
+      "names": [
+         "Public Bookcase"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "motorway_junction"
+      },
+      "names": [
+         "Motorway Junction / Exit"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "foundation"
+      },
+      "names": [
+         "Foundation Office"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "living_street"
+      },
+      "names": [
+         "Living Street"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "library"
+      },
+      "names": [
+         "Library"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "rail"
+      },
+      "names": [
+         "Rail"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "highway": "bridleway"
+      },
+      "names": [
+         "Bridleway"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "water"
+      },
+      "names": [
+         "Water"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "wine"
+      },
+      "names": [
+         "Wine Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "employment_agency"
+      },
+      "names": [
+         "Employment Agency"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "window_construction"
+      },
+      "names": [
+         "Window Construction"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "railway": "buffer_stop"
+      },
+      "names": [
+         "Buffer Stop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "pitch"
+      },
+      "names": [
+         "Sport Pitch"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "building": "garage"
+      },
+      "names": [
+         "Garage"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "manhole": "telecom"
+      },
+      "names": [
+         "Telecom Manhole"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "lottery"
+      },
+      "names": [
+         "Lottery Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "healthcare": "physiotherapist"
+      },
+      "names": [
+         "Physiotherapist"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "amusement_ride"
+      },
+      "names": [
+         "Amusement Ride"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "roller_coaster"
+      },
+      "names": [
+         "Roller Coaster"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "hardware"
+      },
+      "names": [
+         "Hardware Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "track"
+      },
+      "names": [
+         "Racetrack (Non-Motorsport)"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "golf": "green"
+      },
+      "names": [
+         "Putting Green"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "leisure": "sports_centre"
+      },
+      "names": [
+         "Sports Centre / Complex"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "amenity": "motorcycle_parking"
+      },
+      "names": [
+         "Motorcycle Parking"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "shop": "sports"
+      },
+      "names": [
+         "Sporting Goods Shop"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "office": "travel_agent"
+      },
+      "names": [
+         "Travel Agency"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "attraction": "water_slide"
+      },
+      "names": [
+         "Water Slide"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "natural": "grassland"
+      },
+      "names": [
+         "Grassland"
+      ],
+      "keywords": []
+   },
+   {
+      "tags": {
+         "craft": "carpet_layer"
+      },
+      "names": [
+         "Carpet Layer"
+      ],
+      "keywords": []
+   }
+]

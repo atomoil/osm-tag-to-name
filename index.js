@@ -5,7 +5,7 @@ var fs = require("fs")
 
 function saveData(data, locale) {
     // console.log(data)
-    var json = JSON.stringify(data)
+    var json = JSON.stringify(data, null, 3)
     fs.writeFileSync(`data/${locale}.json`, json)
 }
 
